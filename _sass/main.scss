@@ -242,29 +242,6 @@ a.resources-footer:hover{
   margin: 0 auto;
 }
 
-.nameplate{
-  margin-left: 4em;
-  text-align: left;
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.nameplate a{
-  color: #000;
-  text-decoration: none;
-}
-
-.nameplate a:hover{
-  color: #ff0048;
-  background: none;
-  text-decoration: none;
-}
-
 .back{
   margin-left: 4em;
   text-align: left;
@@ -314,7 +291,7 @@ a.resources-footer:hover{
   color: #000;
   font-weight: 400;
   text-decoration: none;
-  padding-left: 40px;
+  padding-left: 35px;
 }
 
 .about a:hover{
@@ -323,16 +300,22 @@ a.resources-footer:hover{
   text-decoration: none;
 }
 
-.about a.contact{
-  color: #ff0048;
-  font-weight: 500;
-  text-decoration: none;
-  padding-left: 40px;
+.about a.btn{
+  color: #fff;
+  background-color: #ff0048;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 0;
+  margin-left: 35px;
+  border-radius: 50px;
+  padding: 10px 30px;
 }
 
-.about a.contact:hover{
-  color: #000;
-  text-decoration: none;
+.about a.btn:hover{
+  background-color: #000;
+  color: #fff;
 }
 
 a.journey{
@@ -592,27 +575,6 @@ blockquote {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.dot{
-  color: #ff0048;
-}
-
-button{
-  color: #fff;
-  background-color: #ff0048;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 0;
-  border-radius: 50px;
-  padding: 10px 30px;
-}
-
-button:hover{
-  background-color: #000;
-  color: #fff;
-}
-
 footer{
   background-color: #f4f4f3;
   color: #777;
@@ -691,7 +653,7 @@ footer{
   .col-third-3{padding-left: 0;}
   .main-inner-top{max-width:100%; margin-top: 2em; padding:0 0 3em;}
   .main-inner-bottom{max-width:100%; margin-top: 0; padding:0 0 2em;}
-  .main-landing{margin: 1em auto; max-width: 95%;}
+  .main-landing{margin: 1em auto; max-width: 95%; padding: 0 20px;}
   .error{margin: 2em auto 4em; max-width: 85%;}
   .error h1{font-size:30px;}
   .error h2{font-size:20px;}
@@ -702,7 +664,7 @@ footer{
   .about .active{padding-left: 30px;}
   .bio{max-width: 40ch; padding-right: 0; margin: 1em auto 2em;}
   img.book-cover{width: 200px; margin:0 auto 1.25em;}
-  h1{font-size: 26px;}
+  h1{font-size: 24px;}
   h2{font-size: 19px;}
   h3{font-size: 12px;}
   h4{font-size: 13px;}

@@ -11,7 +11,7 @@ title: Jeremy D. Cherry
   	<!-- Bio -->
   	<div class="bio">
   		<img src="/images/jeremy-headshot.png" class="avatar" alt="Photo of Jeremy D. Cherry">
-	<h1 class="landing">Jeremy D. Cherry is a designer creating hope through brands and screens at <a href="https://www.journeygroup.com/" class="journey">Journey Group</a>.</h1>
+	<h1 class="landing">Jeremy D. Cherry is a designer creating hope through brands &amp; screens at <a href="https://www.journeygroup.com/" class="journey">Journey Group</a>.</h1>
 	<h6 class="landing">Charlottesville, Virginia</h6>
 	</div>
   </div>
@@ -81,8 +81,8 @@ title: Jeremy D. Cherry
   	<h3 class="landing">Book</h3>
   	<br/>
   	<a href="https://hopeful.design/"><img src="/images/book-cover.png" class="book-cover" alt="Designing Hope Book Cover"></a>
-  	<h2 class="landing"><a href="https://hopeful.design/" class="title">Designing Hope</a></h2>
-  	<h4 class="landing"><a href="https://hopeful.design/">hopeful.design</a></h4>
+  	<h2 class="landing"><a href="https://hopeful.design/" class="title"><em>Designing Hope</em></a></h2>
+  	<h4 class="landing"><a href="https://hopeful.design/" class="event">hopeful.design</a></h4>
   </div>
   <!-- Featured -->
   <div class="column-third col-third-3">
