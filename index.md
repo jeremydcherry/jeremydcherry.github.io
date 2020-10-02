@@ -80,9 +80,9 @@ title: Jeremy D. Cherry
   <div class="column-third col-third-2">
   	<h3 class="landing">Book</h3>
   	<br/>
-  	<a href="https://hopeful.design/"><img src="/images/book-cover.png" class="book-cover" alt="Designing Hope Book Cover"></a>
-  	<h2 class="landing"><a href="https://hopeful.design/" class="title"><em>Designing Hope</em></a></h2>
-  	<h4 class="landing"><a href="https://hopeful.design/" class="event">hopeful.design</a></h4>
+  	<a href="https://hopeful.design/"><img src="/images/designdoes_cover.png" class="book-cover" alt="Design Does Book Cover"></a>
+  	<h2 class="landing"><a href="https://designdoesbook.com" class="title"><em>Design Does</em></a></h2>
+  	<h4 class="landing"><a href="https://designdoesbook.com" class="event">designdoesbook.com</a></h4>
   </div>
   <!-- Featured -->
   <div class="column-third col-third-3">
