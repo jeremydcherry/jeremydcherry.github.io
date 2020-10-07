@@ -9,12 +9,12 @@ permalink: /resources
 <div class="row">
   <div class="column-third col-third-1_resources">
   	<div class="bio">
-		<h1 class="resources">Resources</h1>
-		<h5 class="resources">An ever-growing list of design links</h5>
+		<h1 class="list">Resources</h1>
+		<h5 class="list">An ever-growing list of design links</h5>
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Inspiration:</h3>
+  	<h3 class="list">Inspiration:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -38,12 +38,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Heartthrobs:</h3>
+  	<h3 class="list">Heartthrobs:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -75,12 +75,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Publications:</h3>
+  	<h3 class="list">Publications:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -110,12 +110,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Thinkers:</h3>
+  	<h3 class="list">Thinkers:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -139,12 +139,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Books:</h3>
+  	<h3 class="list">Books:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -168,12 +168,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Newsletters:</h3>
+  	<h3 class="list">Newsletters:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -195,12 +195,12 @@ permalink: /resources
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Talks:</h3>
+  	<h3 class="list">Talks:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -224,12 +224,12 @@ permalink: /resources
 <div class="main-list_last">	
 <div class="row">
   <div class="column-third col-third-1_resources">
-  	<div class="bio">
+  	<div class="blank">
 		&nbsp;
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="resources">Podcasts:</h3>
+  	<h3 class="list">Podcasts:</h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">

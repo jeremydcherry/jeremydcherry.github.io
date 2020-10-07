@@ -1,54 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <!--  Essential META Tags -->
-
-    <meta property="og:title" content="Jeremy D. Cherry">
-    <meta property="og:description" content="Digital Designer in Charlottesville, VA">
-    <meta property="og:image" content="/images/og-image.png">
-    <meta property="og:url" content="jeremydcherry.com">
-    <meta name="twitter:card" content="">
-
-
-    <!--  Non-Essential, But Recommended -->
-
-    <meta property="og:site_name" content="Jeremy D. Cherry">
-    <meta name="twitter:image:alt" content="Design with purpose.">
-
-    <title>{{ site.title }} — {{ site.description }}</title>
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  {% include head.html %}
   </head>
   <body>
-    <header class="page-header" role="banner">
-        <div class="about">
-          <a href="https://dribbble.com/jeremydcherry" class="first">Design &rsaquo;</a><a href="https://designdoesbook.com">Book &rsaquo;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn">Contact</a>
-        </div>   
-    </header>
-
+  {% include nav.html %}
     <main id="content" class="main-content" role="main">
       <div class="main-landing">
       {{ content }}
       </div>
-      <footer>
-        &copy; {{ site.time | date: '%Y' }} Jeremy D. Cherry, All Rights Reserved
-      </footer>
+      {% include footer.html %}
     </main>
   </body>
 </html>

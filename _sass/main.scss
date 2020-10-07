@@ -242,32 +242,6 @@ a.resources-footer:hover{
   margin: 0 auto;
 }
 
-.back{
-  margin-left: 4em;
-  text-align: left;
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.back a{
-  font-size: 14px;
-  line-height: 1;
-  color: #000;
-  font-weight: 400;
-  text-decoration: none;
-}
-
-.back a:hover{
-  color: #ff0048;
-  background: none;
-  text-decoration: none;
-}
-
 .about{
   margin-right: 4em;
   text-align: right;
@@ -278,6 +252,12 @@ a.resources-footer:hover{
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.dot{
+  margin-left: 4em;
+  float: left;
+  width: 9px;
 }
 
 .about a.first{
@@ -445,80 +425,7 @@ h6{
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1.listen{
-  color: #333;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 30px;
-  font-weight: 500;
-  letter-spacing: -0.04em;
-  line-height: 1.25;
-  display: block;
-  margin-block-start: 0;
-  margin-block-end: .75em;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h2.listen{
-  color: #aaa;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 20px;
-  font-weight: 400;
-  letter-spacing: -0.01em;
-  line-height: 1;
-  margin-block-start: 0;
-  margin-block-end: .35em;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h3.listen{
-  color: #ddd;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 48px;
-  font-weight: 500;
-  letter-spacing: -0.04em;
-  line-height: 1;
-  margin-block-start: 0;
-  margin-block-end: .35em;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h4.listen{
-  padding-left: 2.5em;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  letter-spacing: -0.02em;
-  margin-block-start: 0px;
-  margin-block-end: 2em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h4.listen-landing{
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  letter-spacing: -0.02em;
-  margin-block-start: 0px;
-  margin-block-end: 2em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h1.resources{
+h1.list{
   color: #333;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 48px;
@@ -534,7 +441,7 @@ h1.resources{
   -moz-osx-font-smoothing: grayscale;
 }
 
-h3.resources{
+h3.list{
   color: #999;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 22px;
@@ -550,7 +457,7 @@ h3.resources{
   -moz-osx-font-smoothing: grayscale;
 }
 
-h5.resources{
+h5.list{
   color: #333;
   font-family: "Cardo", serif;
   font-style: italic;
@@ -591,6 +498,10 @@ footer{
   text-align: center;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+footer a:hover{
+  color: #ff0048;
 }
 
 .error{
@@ -658,9 +569,15 @@ footer{
   .col-third-1{margin-bottom: 1em;}
   .col-third-2{margin-bottom: 3em;}
   .col-third-3{padding-left: 0;}
+  .col-third-1_resources{margin-bottom: 1em;}
+  .col-third-2_resources{margin-bottom: 2em;}
+  .col-third-3_resources{padding-left: 0; margin-bottom: 1em;}
   .main-inner-top{max-width:100%; margin-top: 2em; padding:0 0 3em;}
   .main-inner-bottom{max-width:100%; margin-top: 0; padding:0 0 2em;}
   .main-landing{margin: 1em auto; max-width: 95%; padding: 0 20px;}
+  .main-list_first{padding: 1em 0 0;}
+  .main-list{padding:0;}
+  .blank{display: none;}
   .error{margin: 2em auto 4em; max-width: 85%;}
   .error h1{font-size:30px;}
   .error h2{font-size:20px;}
@@ -676,8 +593,9 @@ footer{
   h3{font-size: 12px;}
   h4{font-size: 13px;}
   h5{font-size: 13px;}
+  h3.list{font-size: 18px;}
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
-  footer{font-size: 10px;}
+  footer{font-size: 12px;}
 }
 
 
