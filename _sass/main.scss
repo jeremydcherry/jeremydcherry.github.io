@@ -372,7 +372,7 @@ h3{
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1;
@@ -435,22 +435,6 @@ h1.list{
   display: block;
   margin-block-start: 0;
   margin-block-end: .25em;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-h3.list{
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 22px;
-  font-weight: 500;
-  text-transform: none;
-  letter-spacing: -0.05em;
-  line-height: 1;
-  margin-block-start: 0;
-  margin-block-end: .35em;
   margin-inline-start: 0;
   margin-inline-end: 0;
   -webkit-font-smoothing: antialiased;
@@ -593,7 +577,6 @@ footer a:hover{
   h3{font-size: 12px;}
   h4{font-size: 13px;}
   h5{font-size: 13px;}
-  h3.list{font-size: 18px;}
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
   footer{font-size: 12px;}
 }
