@@ -21,7 +21,7 @@ permalink: /resources
   	<h2><a href="https://www.underconsideration.com/brandnew/" class="resource">Brand New</a></h2>
 	<h4>Branding inspiration for days</h4><br/>
 	<h2><a href="https://www.siteinspire.com/" class="resource">SiteInspire</a></h2>
-	<h4>Beautiful websites that work too</h4><br/>
+	<h4>Most beautiful sites on the web</h4><br/>
 	<h2><a href="https://www.typewolf.com/" class="resource">Typewolf</a></h2>
 	<h4>Best inspiration for web typography</h4><br/>
 	<h2><a href="https://www.awwwards.com/websites/" class="resource">Awwwards</a></h2>
@@ -48,7 +48,7 @@ permalink: /resources
   <!-- List -->
   <div class="column-third col-third-3_resources">
   	<h2><a href="https://www.pentagram.com/about/michael-bierut" class="resource">Michael Beirut</a></h2>
-	<h4>One of Graphics Design's GOATs</h4><br/>
+	<h4>One of graphic design's GOATs</h4><br/>
 	<h2><a href="https://brucemaustudio.com/" class="resource">Bruce Mau</a></h2>
 	<h4>Your favorite designer's favorite designer</h4><br/>
   	<h2><a href="https://vanschneider.com/" class="resource">Tobias van Schneider</a></h2>
@@ -60,7 +60,7 @@ permalink: /resources
 	<h2><a href="https://frankchimero.com/" class="resource">Frank Chimero</a></h2>
 	<h4>Designer, writer, thinker</h4><br/>
 	<h2><a href="https://bradfrost.com/" class="resource">Brad Frost</a></h2>
-	<h4>Creator of Atomic Design</h4><br/>
+	<h4>Creator of atomic design</h4><br/>
 	<h2><a href="https://www.romanmars.com/" class="resource">Roman Mars</a></h2>
 	<h4>Podcast legend</h4><br/>
 	<h2><a href="https://fabricio.work/" class="resource">Fabricio Teixeira</a></h2>
@@ -85,7 +85,7 @@ permalink: /resources
   <!-- List -->
   <div class="column-third col-third-3_resources">
   	<h2><a href="https://www.designbetter.co/" class="resource">DesignBetter.Co</a></h2>
-	<h4>Design education resource by InVision</h4><br/>
+	<h4>Design education by InVision</h4><br/>
 	<h2><a href="https://www.invisionapp.com/inside-design/" class="resource">Inside Design</a></h2>
 	<h4>Design blog by InVision</h4><br/>
 	<h2><a href="https://alistapart.com/" class="resource">A List Apart</a></h2>
@@ -97,9 +97,9 @@ permalink: /resources
 	<h2><a href="https://www.offscreenmag.com/" class="resource">Offscreen</a></h2>
 	<h4>An offline magazine about the online world</h4><br/>
 	<h2><a href="https://www.fastcompany.com/co-design" class="resource">Co.Design</a></h2>
-	<h4>An offline magazine about the online world</h4><br/>
+	<h4>Fast Company's design section</h4><br/>
 	<h2><a href="https://thegreatdiscontent.com/" class="resource">The Great Discontent</a></h2>
-	<h4>More great interviews from global creatives</h4><br/>
+	<h4>More interviews with global creatives</h4><br/>
   </div>
 </div>
 </div>
@@ -120,7 +120,7 @@ permalink: /resources
   <!-- List -->
   <div class="column-third col-third-3_resources">
   	<h2><a href="https://www.tristanharris.com/" class="resource">Tristan Harris</a></h2>
-	<h4>Ahead of his time digital design ethicist</h4><br/>
+	<h4>Digital design ethicist</h4><br/>
 	<h2><a href="https://www.humanetech.com/" class="resource">Center for Humane Tech</a></h2>
 	<h4>Organization supporting ethical tech innovation</h4><br/>
 	<h2><a href="https://humanebydesign.com/" class="resource">Humane by Design</a></h2>
@@ -156,7 +156,7 @@ permalink: /resources
 	<h4>Brad Frost's method for designing systems</h4><br/>
 	<h2><a href="https://betterwebtype.com/web-typography-book/" class="resource"><em>Better Web Type</em></a></h2>
 	<h4>Matej Latin's resource on bulletproof web typography</h4><br/>
-	<h2><a href="https://hopeful.design" class="resource"><em>Designing Hope</em></a></h2>
+	<h2><a href="https://designdoesbook.com" class="resource"><em>Design Does</em></a></h2>
 	<h4>Jeremy Cherry's fearless self-promotion</h4><br/>
   </div>
 </div>
