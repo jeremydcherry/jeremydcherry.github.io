@@ -26,10 +26,12 @@
 
 .nav-left {
   width: 50%;
+  text-align: left;
 }
 
 .nav-right {
   width: 50%;
+  text-align: right;
 }
 
 .column-third {
@@ -153,6 +155,18 @@ a.record:hover{
   border-bottom: none;
 }
 
+a.name{
+  color: #000;
+  text-decoration: none;
+  border-bottom: 1px #ddd solid;
+}
+
+a.name:hover{
+  background-color: #ff0048;
+  color: #fff;
+  text-decoration: none;
+}
+
 a.resource{
   font-family: "Cardo", serif;
   border-bottom: 1px #ddd solid;
@@ -243,15 +257,17 @@ a.resources-footer:hover{
 }
 
 .about{
-  margin-right: 4em;
-  text-align: right;
+  margin: 0 4em;
   color: #999;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
-  font-weight: 500;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.right-nav{
+  text-align: right;
 }
 
 .dot{
@@ -261,17 +277,17 @@ a.resources-footer:hover{
 }
 
 .about a.first{
-  color: #000;
-  font-weight: 400;
-  text-decoration: none;
   padding-left: 0;
+}
+
+.about a.nav{
+  padding-left: 35px;
 }
 
 .about a{
   color: #000;
   font-weight: 400;
   text-decoration: none;
-  padding-left: 35px;
 }
 
 .about a:hover{
@@ -442,12 +458,11 @@ h1.list{
 }
 
 h5.list{
-  color: #333;
-  font-family: "Cardo", serif;
-  font-style: italic;
-  font-size: 19px;
+  color: #777;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 15px;
   font-weight: 400;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.025em;
   margin-block-start: 0px;
   margin-block-end: 0.25em;
   margin-inline-start: 0px;
@@ -550,6 +565,8 @@ footer a:hover{
   body{font-size: 21px;}
   .column{width: 100%;}
   .column-third{width: 100%; text-align: center;}
+  .nav-left{width: 28%; text-align: right; padding-right: 30px;}
+  .nav-right{width: 72%; text-align: left;}
   .col-third-1{margin-bottom: 1em;}
   .col-third-2{margin-bottom: 3em;}
   .col-third-3{padding-left: 0;}
@@ -567,8 +584,10 @@ footer a:hover{
   .error h2{font-size:20px;}
   .error h5{font-size:16px;}
   .main-page{margin: 1em auto; max-width: 85%;}
-  .about{text-align: center; margin-right: 0;}
-  .about a{padding-left: 30px;}
+  .about{text-align: center; margin: 0;}
+  .about a.nav{padding-left: 30px;}
+  .about a.first{padding-left: 0;}
+  .about a.home{padding-left: 0;}
   .about .active{padding-left: 30px;}
   .bio{max-width: 40ch; padding-right: 0; margin: 1em auto 2em;}
   img.book-cover{width: 200px; margin:0 auto 1.25em;}
