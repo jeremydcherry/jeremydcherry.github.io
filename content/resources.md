@@ -125,6 +125,8 @@ permalink: /resources
 	<h4>Organization supporting ethical tech innovation</h4><br/>
 	<h2><a href="https://humanebydesign.com/" class="resource">Humane by Design</a></h2>
 	<h4>Resources that help you design for humans</h4><br/>
+	<h2><a href="https://www.nngroup.com/" class="resource">Nielsen Norman Group</a></h2>
+	<h4>Leaders in user experience research</h4><br/>
 	<h2><a href="https://jigsaw.google.com/" class="resource">Jigsaw</a></h2>
 	<h4>Google's iniative for a safer web</h4><br/>
 	<h2><a href="https://www.ideo.com/" class="resource">IDEO</a></h2>
