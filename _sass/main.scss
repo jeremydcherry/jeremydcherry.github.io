@@ -270,12 +270,6 @@ a.resources-footer:hover{
   text-align: right;
 }
 
-.dot{
-  margin-left: 4em;
-  float: left;
-  width: 9px;
-}
-
 .about a.first{
   padding-left: 0;
 }
@@ -346,6 +340,19 @@ img.book-cover:hover{
   -webkit-box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
   -moz-box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
   box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
+}
+
+.mark{
+  width: 35px;
+  height: auto;
+}
+
+a.home-link{
+  transition: .25s;
+}
+
+a.home-link:hover{
+  opacity: .5;
 }
 
 .icon{
@@ -563,19 +570,21 @@ footer a:hover{
 
 @media screen and (max-width: 1000px) {
   body{font-size: 21px;}
+  .page-header {margin: .25em auto 1em;}
   .column{width: 100%;}
   .column-third{width: 100%; text-align: center;}
-  .nav-left{width: 28%; text-align: right; padding-right: 30px;}
-  .nav-right{width: 72%; text-align: left;}
+  .about{margin-bottom: 2em;}
+  .nav-left{width: 25%; text-align: left; padding-left: 20px;}
+  .nav-right{width: 75%; text-align: right; padding-top: 10px; padding-right: 20px;}
   .col-third-1{margin-bottom: 1em;}
   .col-third-2{margin-bottom: 3em;}
   .col-third-3{padding-left: 0;}
   .col-third-1_resources{margin-bottom: 1em;}
   .col-third-2_resources{margin-bottom: 2em;}
   .col-third-3_resources{padding-left: 0; margin-bottom: 1em;}
-  .main-inner-top{max-width:100%; margin-top: 2em; padding:0 0 3em;}
+  .main-inner-top{max-width:100%; margin-top: 0; padding:0 0 3em;}
   .main-inner-bottom{max-width:100%; margin-top: 0; padding:0 0 2em;}
-  .main-landing{margin: 1em auto; max-width: 95%; padding: 0 20px;}
+  .main-landing{margin: 0 auto 1em; max-width: 95%; padding: 0 20px;}
   .main-list_first{padding: 1em 0 0;}
   .main-list{padding:0;}
   .blank{display: none;}
@@ -589,7 +598,7 @@ footer a:hover{
   .about a.first{padding-left: 0;}
   .about a.home{padding-left: 0;}
   .about .active{padding-left: 30px;}
-  .bio{max-width: 40ch; padding-right: 0; margin: 1em auto 2em;}
+  .bio{max-width: 40ch; padding-right: 0; margin: 2em auto;}
   img.book-cover{width: 200px; margin:0 auto 1.25em;}
   h1{font-size: 24px;}
   h2{font-size: 19px;}

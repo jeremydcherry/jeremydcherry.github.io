@@ -12,7 +12,7 @@ title: Jeremy D. Cherry
   	<div class="bio">
   		<img src="/images/jeremy-headshot.png" class="avatar" alt="Photo of Jeremy D. Cherry">
 		<h1>Jeremy D. Cherry is a designer telling stories through brands and screens at <a href="https://www.journeygroup.com/" class="journey">Journey Group</a>.</h1>
-		<h6>Charlottesville, Virginia</h6>
+		<h6>&bull;&nbsp;&nbsp;Charlottesville, Virginia</h6>
 	</div>
   </div>
   <!-- Writing -->
