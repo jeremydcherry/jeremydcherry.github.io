@@ -158,7 +158,7 @@ permalink: /resources
 	<h4>Brad Frost's method for designing systems</h4><br/>
 	<h2><a href="https://betterwebtype.com/web-typography-book/" class="resource"><em>Better Web Type</em></a></h2>
 	<h4>Matej Latin's resource on bulletproof web typography</h4><br/>
-	<h2><a href="https://designdoesbook.com" class="resource"><em>Design Does</em></a></h2>
+	<h2><a href="https://hopeful.design" class="resource"><em>Designing Hope</em></a></h2>
 	<h4>Jeremy Cherry's fearless self-promotion</h4><br/>
   </div>
 </div>
