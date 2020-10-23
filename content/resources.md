@@ -185,8 +185,8 @@ permalink: /resources
 	<h4>Weekly digest for all things design</h4><br/>
 	<h2><a href="https://sidebar.io/" class="resource">Sidebar</a></h2>
 	<h4>Daily digest of all things digital</h4><br/>
-	<h2><a href="https://uimovement.com/" class="resource">UI Movement</a></h2>
-	<h4>Weekly collection of interface motion design</h4><br/>
+	<h2><a href="https://screenlane.com/subscribe/" class="resource">Screenlane</a></h2>
+	<h4>Weekly collection of interface design</h4><br/>
   </div>
 </div>
 </div>
