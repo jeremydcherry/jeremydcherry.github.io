@@ -3,7 +3,7 @@ layout: resources
 permalink: /resources
 ---
 
-<!-- 1 -->
+<!-- Overview -->
 <div class="main-wrapper">
 <div class="main-list_first">	
 <div class="row">
@@ -33,7 +33,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 2 -->
+<!-- Heroes -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -70,7 +70,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 3 -->
+<!-- Publications -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -105,7 +105,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 4 -->
+<!-- Thinkers -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -136,7 +136,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 6 -->
+<!-- Books -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -165,7 +165,31 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 5 -->
+<!-- Publishers -->
+<div class="main-wrapper">
+<div class="main-list">	
+<div class="row">
+  <div class="column-third col-third-1_resources">
+  	<div class="blank">
+		&nbsp;
+	</div>
+  </div>
+  <div class="column-third col-third-2_resources">
+  	<h3 class="list">Publishers:</h3>
+  </div>	
+  <!-- List -->
+  <div class="column-third col-third-3_resources">
+  	<h2><a href="https://abookapart.com/" class="resource">A Book Apart</a></h2>
+	<h4>Brief books for people who design, write, and code</h4><br/>
+	<h2><a href="https://www.smashingmagazine.com/printed-books/" class="resource">Smashing Magazine Books</a></h2>
+	<h4>In-depth knowledge and expertise shared by experts and practitioners</h4><br/>
+	<h2><a href="https://rosenfeldmedia.com/books/" class="resource">Rosenfeld Media</a></h2>
+	<h4>Wordclass thoughts leaders in User Experience</h4><br/>
+</div>
+</div>
+</div>
+
+<!-- Newsletters -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -192,7 +216,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 6 -->
+<!-- Talks -->
 <div class="main-wrapper">
 <div class="main-list">	
 <div class="row">
@@ -221,7 +245,7 @@ permalink: /resources
 </div>
 </div>
 
-<!-- 6 -->
+<!-- Podcasts -->
 <div class="main-wrapper">
 <div class="main-list_last">	
 <div class="row">
