@@ -11,8 +11,8 @@ title: Jeremy D. Cherry
   	<!-- Bio -->
   	<div class="bio">
   		<img src="/images/jeremy-headshot.png" class="avatar" alt="Photo of Jeremy D. Cherry">
-		<h1>Jeremy D. Cherry is a designer telling stories through brands and screens at <a href="https://www.journeygroup.com/" class="journey">Journey Group</a>.</h1>
-		<h6>&bull;&nbsp;&nbsp;Charlottesville, Virginia</h6>
+		<h1><span class="name">Jeremy D. Cherry</span> is a designer, writer, and educator.</h1>
+		<h6>He is relentlessly optimistic about the power of design to make the world a better place. He leads the digital design practice at <a href="https://journeygroup.com" class="title">Journey Group</a> in Charlottesville, VA. He writes, speaks, and teaches about the intersection of digital design and ethics, seeking to add hope back to the conversation. He wrote a book titled <a href="https://hopeful.design" class="title"><em>Designing Hope</em></a>.</h6>
 	</div>
   </div>
   <!-- Writing -->
