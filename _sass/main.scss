@@ -344,16 +344,16 @@ img.book-cover{
   display: block;
   width: 200px;
   margin: 0 0 1.25em;
-  -webkit-box-shadow: -6px 6px 0px 0px rgba(221,221,221,1);
-  -moz-box-shadow: -6px 6px 0px 0px rgba(221,221,221,1);
-  box-shadow: -6px 6px 0px 0px rgba(221,221,221,1);
+  box-shadow: 0 0 3px 0 rgba(40,42,47,0.1), -3px 3px 10px 3px rgba(40,42,47,0.05), -10px 13px 10px 0 rgba(40,42,47,0.1), -3px 3px 3px -1px rgba(40,42,47,0.1);
+  -webkit-box-shadow: 0 0 3px 0 rgba(40,42,47,0.1), -3px 3px 10px 3px rgba(40,42,47,0.05), -10px 13px 10px 0 rgba(40,42,47,0.1), -3px 3px 3px -1px rgba(40,42,47,0.1);
+  -moz-box-shadow: 0 0 3px 0 rgba(40,42,47,0.1), -3px 3px 10px 3px rgba(40,42,47,0.05), -10px 13px 10px 0 rgba(40,42,47,0.1), -3px 3px 3px -1px rgba(40,42,47,0.1);
   transition: .25s;
 }
 
 img.book-cover:hover{
-  -webkit-box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
-  -moz-box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
-  box-shadow: -8px 8px 0px 0px rgba(221,221,221,1);
+  box-shadow: 0 0 4px 0 rgba(40,42,47,0.15), -4px 4px 10px 4px rgba(40,42,47,0.075), -12px 18px 12px 0 rgba(40,42,47,0.15), -4px 4px 4px -1px rgba(40,42,47,0.15);
+  -webkit-box-shadow: 0 0 4px 0 rgba(40,42,47,0.15), -4px 4px 10px 4px rgba(40,42,47,0.075), -12px 18px 12px 0 rgba(40,42,47,0.15), -4px 4px 4px -1px rgba(40,42,47,0.15);
+  -moz-box-shadow: 0 0 4px 0 rgba(40,42,47,0.15), -4px 4px 10px 4px rgba(40,42,47,0.075), -12px 18px 12px 0 rgba(40,42,47,0.15), -4px 4px 4px -1px rgba(40,42,47,0.15);
 }
 
 .mark{
