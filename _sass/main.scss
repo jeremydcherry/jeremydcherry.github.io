@@ -503,6 +503,107 @@ h5.list{
   color: #ff0048 !important;
 }
 
+h1.listen{
+  color: #333;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1.25;
+  display: block;
+  margin-block-start: 0;
+  margin-block-end: .5em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2.listen{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  margin-block-start: 0;
+  margin-block-end: .5em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h3.listen{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 48px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  line-height: 1;
+  display: block;
+  margin-block-start: 0;
+  margin-block-end: .5em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h4.listen{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  padding-left: 3em;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h5.listen{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  margin-block-start: 0px;
+  margin-block-end: 0.5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h6.listen{
+  color: #333;
+  font-family: "Cardo", serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+  margin-block-start: 0px;
+  margin-block-end: 1.25em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a.playlist{
+  color: #000;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a.playlist:hover{
+  color: #ff0048;
+  background: none;
+  text-decoration: none;
+}
+
 blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 20px;
