@@ -49,22 +49,26 @@ title: Jeremy D. Cherry
   	<h3>Speaking</h3>
   	<br/>
   	<!-- Event 1 -->
+	<h2>Hopeful Design for Hopeless Times</h2>
+	<h4><a href="https://www.igniteuxmi.com/" class="event">Ignite UX Michigan</a></h4>
+	<br/>
+  	<!-- Event 2 -->
   	<h2><img src="/images/play.svg" class="icon"><a href="https://creativemornings.com/talks/jeremy-cherry/1" class="title">Rethinking Engagement</a></h2>
 	<h4><a href="https://creativemornings.com/cities/cvl" class="event">Creative Mornings Charlottesville</a></h4>
 	<br/>
-	<!-- Event 2 -->
+	<!-- Event 3 -->
 	<h2>Thinking Beyond Screens</h2>
 	<h4><a href="https://charlottesvilledesignweek.com/" class="event">Charlottesville Design Week</a></h4>
 	<br/>
-	<!-- Event 3 -->
+	<!-- Event 4 -->
 	<h2>Creating Users, Not Addicts</h2>
 	<h4><a href="https://www.tomtomfoundation.org/" class="event">Tom Tom Festival</a></h4>
 	<br/>
-	<!-- Event 4 -->
+	<!-- Event 5 -->
 	<h2>Design Does</h2>
 	<h4><a href="https://tedxcharlottesville.com/" class="event">TEDx Charlottesville, Open Mic Night</a></h4>
 	<br/>
-	<!-- Event 5 -->
+	<!-- Event 6 -->
 	<h2>Breaking Your Own Rules</h2>
 	<h4><a href="https://virginiahumanities.org/" class="event">edUI Conference</a></h4>
   </div>  
