@@ -12,9 +12,9 @@ title: Jeremy D. Cherry
   	<div class="bio">
   		<img src="/images/jeremy-headshot.jpg" class="avatar" alt="Photo of Jeremy D. Cherry">
 		<h1><span class="name">Jeremy D. Cherry</span> is a designer, writer, and educator.</h1>
-		<h6>&bull;&nbsp;&nbsp;Works at <a href="https://journeygroup.com" class="title"><em>Journey Group</em></a><br/>
-			&bull;&nbsp;&nbsp;Lives in Charlottesville, VA<br/>
-			&bull;&nbsp;&nbsp;Wrote a book titled <a href="https://hopeful.design" class="title"><em>Designing Hope</em></a></h6>
+		<h6><span class="bullet">&bull;</span>&nbsp;&nbsp;Works at <a href="https://journeygroup.com" class="title"><em>Journey Group</em></a><br/>
+			<span class="bullet">&bull;</span>&nbsp;&nbsp;Lives in Charlottesville, VA<br/>
+			<span class="bullet">&bull;</span>&nbsp;&nbsp;Wrote a book titled <a href="https://hopeful.design" class="title"><em>Designing Hope</em></a></h6>
 		<a href="mailto:jeremy@jeremydcherry.com" class="btn">Collaborate</a>
 	</div>
   </div>
