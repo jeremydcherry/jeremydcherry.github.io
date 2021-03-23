@@ -521,6 +521,17 @@ h5.list{
   color: #ff0048 !important;
 }
 
+h3.list a.section-link{
+  color: #000;
+  border-bottom: 1px #ddd solid;
+}
+
+h3.list a.section-link:hover{
+  color: #fff;
+  background-color: #ff0048;
+  border-bottom: none;
+}
+
 h1.listen{
   color: #333;
   font-family: "IBM Plex Sans", sans-serif;

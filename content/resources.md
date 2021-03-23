@@ -43,7 +43,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list">Heroes: <a href="#heroes">#</a></h3>
+  	<h3 class="list"><a href="#heroes" class="section-link">Heroes:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
