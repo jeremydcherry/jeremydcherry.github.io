@@ -13,7 +13,7 @@ permalink: /resources
 		<h5 class="list">Curated design links by <a href="/" class="name">Jeremy D. Cherry</a></h5>
 	</div>
   </div>
-  <div class="column-third col-third-2_resources" id="inspiration">
+  <div class="column-third col-third-2_resources">
   	<h3 class="list">Inspiration:</h3>
   </div>	
   <!-- List -->
@@ -106,7 +106,7 @@ permalink: /resources
 </div>
 
 <!-- Thinkers -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="thinkers">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
