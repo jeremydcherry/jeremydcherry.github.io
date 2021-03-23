@@ -34,7 +34,7 @@ permalink: /resources
 </div>
 
 <!-- Heroes -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="heroes">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -71,7 +71,7 @@ permalink: /resources
 </div>
 
 <!-- Publications -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="publications">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -137,7 +137,7 @@ permalink: /resources
 </div>
 
 <!-- Books -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="books">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -166,7 +166,7 @@ permalink: /resources
 </div>
 
 <!-- Publishers -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="publishers">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -190,7 +190,7 @@ permalink: /resources
 </div>
 
 <!-- Newsletters -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="newsletters">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -217,7 +217,7 @@ permalink: /resources
 </div>
 
 <!-- Talks -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="talks">
 <div class="main-list">	
 <div class="row">
   <div class="column-third col-third-1_resources">
@@ -246,7 +246,7 @@ permalink: /resources
 </div>
 
 <!-- Podcasts -->
-<div class="main-wrapper">
+<div class="main-wrapper" id="podcasts">
 <div class="main-list_last">	
 <div class="row">
   <div class="column-third col-third-1_resources">
