@@ -14,7 +14,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#inspiration" class="section-link">Inspiration:</a></h3>
+  	<h3 class="list"># <a href="#inspiration" class="section-link">Inspiration:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -43,7 +43,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#heroes" class="section-link">#</a> Heroes:</h3>
+  	<h3 class="list"># <a href="#heroes" class="section-link">Heroes:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -80,7 +80,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#publications" class="section-link">Publications:</a></h3>
+  	<h3 class="list"># <a href="#publications" class="section-link">Publications:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -115,7 +115,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#thinkers" class="section-link">Thinkers:</a></h3>
+  	<h3 class="list"># <a href="#thinkers" class="section-link">Thinkers:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -146,7 +146,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#books" class="section-link">Books:</a></h3>
+  	<h3 class="list"># <a href="#books" class="section-link">Books:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -175,7 +175,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#publishers" class="section-link">Publishers:</a></h3>
+  	<h3 class="list"># <a href="#publishers" class="section-link">Publishers:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -199,7 +199,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#newsletters" class="section-link">Newsletters:</a></h3>
+  	<h3 class="list"># <a href="#newsletters" class="section-link">Newsletters:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -226,7 +226,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#talks" class="section-link">Talks:</a></h3>
+  	<h3 class="list"># <a href="#talks" class="section-link">Talks:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
@@ -255,7 +255,7 @@ permalink: /resources
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
-  	<h3 class="list"><a href="#podcasts" class="section-link">Podcasts:</a></h3>
+  	<h3 class="list"># <a href="#podcasts" class="section-link">Podcasts:</a></h3>
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
