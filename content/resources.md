@@ -59,6 +59,8 @@ permalink: /resources
 	<h4>Typography expert</h4><br/>
 	<h2><a href="https://frankchimero.com/" class="resource">Frank Chimero</a></h2>
 	<h4>Designer, writer, thinker</h4><br/>
+	<h2><a href="https://www.tristanharris.com/" class="resource">Tristan Harris</a></h2>
+	<h4>Digital design ethicist</h4><br/>
 	<h2><a href="https://bradfrost.com/" class="resource">Brad Frost</a></h2>
 	<h4>Creator of atomic design</h4><br/>
 	<h2><a href="https://www.romanmars.com/" class="resource">Roman Mars</a></h2>
@@ -119,8 +121,6 @@ permalink: /resources
   </div>	
   <!-- List -->
   <div class="column-third col-third-3_resources">
-  	<h2><a href="https://www.tristanharris.com/" class="resource">Tristan Harris</a></h2>
-	<h4>Digital design ethicist</h4><br/>
 	<h2><a href="https://www.humanetech.com/" class="resource">Center for Humane Tech</a></h2>
 	<h4>Organization supporting ethical tech innovation</h4><br/>
 	<h2><a href="https://humanebydesign.com/" class="resource">Humane by Design</a></h2>
