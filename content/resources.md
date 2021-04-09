@@ -10,7 +10,7 @@ permalink: /resources
   <div class="column-third col-third-1_resources">
   	<div class="bio">
 		<h1 class="list">Resources</h1>
-		<h5 class="list">Curated design links by <a href="/" class="name">Jeremy D. Cherry</a></h5>
+		<h5 class="list">An evergrowing list of curated design links</h5>
 	</div>
   </div>
   <div class="column-third col-third-2_resources">
