@@ -40,10 +40,6 @@ title: Jeremy D. Cherry
 	<h2><a href="https://www.framer.com/blog/posts/thinking-beyond-screens/" class="title">Thinking Beyond Screens</a></h2>
 	<h4>framer.com/blog</h4>
 	<br/>
-	<!-- Essay 6 -->
-	<h2><a href="https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8" class="title">Confronting the Illusion of Choice</a></h2>
-	<h4>uxdesign.cc</h4>
-	<br/>
 	<!-- Read More -->
 	<h4>Read more on <a href="https://medium.com/@jeremydcherry" class="event">Medium</a></h4>
   </div>
@@ -68,10 +64,6 @@ title: Jeremy D. Cherry
 	<h4><a href="https://www.tomtomfoundation.org/" class="event">Tom Tom Festival</a></h4>
 	<br/>
 	<!-- Event 5 -->
-	<h2>Design Does</h2>
-	<h4><a href="https://tedxcharlottesville.com/" class="event">TEDx Charlottesville, Open Mic Night</a></h4>
-	<br/>
-	<!-- Event 6 -->
 	<h2>Breaking Your Own Rules</h2>
 	<h4><a href="https://virginiahumanities.org/" class="event">edUI Conference</a></h4>
   </div>  
