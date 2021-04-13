@@ -37,14 +37,10 @@ title: Jeremy D. Cherry
 	<h4>medium.com/journey-group</h4>
 	<br/>
 	<!-- Essay 5 -->
-	<h2><a href="https://medium.com/journey-group/better-design-for-boomers-93abdb5bcb64" class="title">Better Design for Boomers</a></h2>
-	<h4>medium.com/journey-group</h4>
-	<br/>
-	<!-- Essay 6 -->
 	<h2><a href="https://www.framer.com/blog/posts/thinking-beyond-screens/" class="title">Thinking Beyond Screens</a></h2>
 	<h4>framer.com/blog</h4>
 	<br/>
-	<!-- Essay 7 -->
+	<!-- Essay 6 -->
 	<h2><a href="https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8" class="title">Confronting the Illusion of Choice</a></h2>
 	<h4>uxdesign.cc</h4>
 	<br/>
