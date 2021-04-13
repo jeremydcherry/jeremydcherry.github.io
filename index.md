@@ -66,6 +66,8 @@ title: Jeremy D. Cherry
 	<!-- Event 5 -->
 	<h2>Breaking Your Own Rules</h2>
 	<h4><a href="https://virginiahumanities.org/" class="event">edUI Conference</a></h4>
+	<!-- Request -->
+	<h4>Request full <a href="mailto:jeremy@jeremydcherry.com" class="event">Speaking CV</a></h4>
   </div>  
 </div>
 
