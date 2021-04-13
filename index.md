@@ -47,6 +47,7 @@ title: Jeremy D. Cherry
 	<!-- Essay 7 -->
 	<h2><a href="https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8" class="title">Confronting the Illusion of Choice</a></h2>
 	<h4>uxdesign.cc</h4>
+	<br/>
 	<!-- Read More -->
 	<h4>Read more at <a href="https://medium.com/@jeremydcherry" class="event">medium.com/@jeremydcherry</a></h4>
   </div>
