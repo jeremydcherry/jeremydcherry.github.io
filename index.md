@@ -40,9 +40,6 @@ title: Jeremy D. Cherry
 	<!-- Essay 5 -->
 	<h2><a href="https://www.framer.com/blog/posts/thinking-beyond-screens/" class="title">Thinking Beyond Screens</a></h2>
 	<h4>framer.com/blog</h4>
-	<br/>
-	<!-- Read More -->
-	<h4>Read more on <a href="https://medium.com/@jeremydcherry" class="event">Medium</a></h4>
   </div>
   <!-- Events-->
   <div class="column-third col-third-3">
