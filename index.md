@@ -46,7 +46,7 @@ title: Jeremy D. Cherry
   	<h3>Speaking</h3>
   	<br/>
   	<!-- Event 1 -->
-	<h2>Hopeful Design for Hopeless Times</h2>
+	<h2><img src="/images/play.svg" class="icon"><a href="https://www.youtube.com/watch?v=m6jV0ygv56Y" class="title">Hopeful Design for Hopeless Times</a></h2>
 	<h4><a href="https://www.igniteuxmi.com/" class="event">Ignite UX Michigan</a></h4>
 	<br/>
   	<!-- Event 2 -->
