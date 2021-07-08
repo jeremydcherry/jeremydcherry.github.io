@@ -22,11 +22,11 @@ title: Jeremy D. Cherry
   	<h3>Writing</h3>
   	<br/>
   	<!-- Essay 1 -->
-  	<h2><a href="https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757" class="title">When Design Doesn’t Mimic Life</a></h2>
-	<h4>medium.com/journey-group</h4>
+  	<h2><a href="https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12" class="title">A Designer's Guide to Anxiety</a></h2>
+	<h4>bootcamp.uxdesign.cc</h4>
 	<br/>
   	<!-- Essay 2 -->
-  	<h2><a href="https://medium.com/journey-group/the-ancient-art-of-ux-38b239280264" class="title">The Ancient Art of UX</a></h2>
+  	<h2><a href="https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757" class="title">When Design Doesn’t Mimic Life</a></h2>
 	<h4>medium.com/journey-group</h4>
 	<br/>
 	<!-- Essay 3 -->
