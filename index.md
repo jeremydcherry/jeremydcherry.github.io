@@ -86,6 +86,7 @@ title: Jeremy D. Cherry
   <div class="column-third col-third-3">
   	<h3 class="landing">Featured In</h3>
   	<br/>
+  	<h5><a href="https://bootcamp.uxdesign.cc/" class="publication">Bootcamp by UX Collective</a></h5>
   	<h5><a href="https://creativemornings.com/cities/cvl" class="publication">Creative Mornings</a></h5>
 	<h5><a href="https://www.commarts.com/" class="publication">Communication Arts</a></h5>
 	<h5><a href="https://www.framer.com/blog/" class="publication">Framer</a></h5>
