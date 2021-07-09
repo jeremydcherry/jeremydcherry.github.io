@@ -22,7 +22,7 @@ title: Jeremy D. Cherry
   	<h3>Writing</h3>
   	<br/>
   	<!-- Essay 1 -->
-  	<h2><a href="https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12" class="title">A Designer's Guide to Anxiety</a></h2>
+  	<h2><a href="https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12" class="title">A Designer’s Guide to Anxiety</a></h2>
 	<h4>bootcamp.uxdesign.cc</h4>
 	<br/>
   	<!-- Essay 2 -->
