@@ -22,24 +22,24 @@ title: Jeremy D. Cherry
   	<h3>Writing</h3>
   	<br/>
   	<!-- Essay 1 -->
+  	<h2><a href="https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c" class="title">10 Things You Can’t Learn in Design School</a></h2>
+	<h4>medium.com/journey-group<</h4>
+	<br/>
+  	<!-- Essay 2 -->
   	<h2><a href="https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12" class="title">A Designer’s Guide to Anxiety</a></h2>
 	<h4>bootcamp.uxdesign.cc</h4>
 	<br/>
-  	<!-- Essay 2 -->
+  	<!-- Essay 3 -->
   	<h2><a href="https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757" class="title">When Design Doesn’t Mimic Life</a></h2>
 	<h4>medium.com/journey-group</h4>
 	<br/>
-	<!-- Essay 3 -->
+	<!-- Essay 4 -->
 	<h2><a href="https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115" class="title">The Design of Tomorrow</a></h2>
 	<h4>uxdesign.cc</h4>
 	<br/>
-	<!-- Essay 4 -->
+	<!-- Essay 5 -->
 	<h2><a href="https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7" class="title">Creating Users, Not Addicts</a></h2>
 	<h4>medium.com/journey-group</h4>
-	<br/>
-	<!-- Essay 5 -->
-	<h2><a href="https://www.framer.com/blog/posts/thinking-beyond-screens/" class="title">Thinking Beyond Screens</a></h2>
-	<h4>framer.com/blog</h4>
   </div>
   <!-- Events-->
   <div class="column-third col-third-3">
