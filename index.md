@@ -46,9 +46,6 @@ title: Jeremy D. Cherry
   	<h3>Speaking</h3>
   	<br/>
   	<!-- Event 1 -->
-	<h2><a href="http://smadday.com/2021-virtual-schedule" class="title">10 Things You Can’t Learn in Design School</a></h2>
-	<h4><a href="http://smadday.com/" class="event">JMU SMAD Day</a></h4>
-	<br/>
 	<h2><img src="/images/play.svg" class="icon"><a href="https://www.youtube.com/watch?v=m6jV0ygv56Y" class="title">Hopeful Design for Hopeless Times</a></h2>
 	<h4><a href="https://www.igniteuxmi.com/" class="event">Ignite UX Michigan</a></h4>
 	<br/>
@@ -63,6 +60,11 @@ title: Jeremy D. Cherry
 	<!-- Event 4 -->
 	<h2>Creating Users, Not Addicts</h2>
 	<h4><a href="https://www.tomtomfoundation.org/" class="event">Tom Tom Festival</a></h4>
+	<br/>
+	<!-- Event 5 -->
+	<h2>Breaking Your Own Rules</h2>
+	<h4><a href="https://virginiahumanities.org/" class="event">edUI Conference</a></h4>
+  </div>  
 </div>
 
 <!-- Bottom -->
