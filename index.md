@@ -91,10 +91,7 @@ title: Jeremy D. Cherry
 	<h5><a href="https://www.commarts.com/" class="publication">Communication Arts</a></h5>
 	<h5><a href="https://www.framer.com/blog/" class="publication">Framer</a></h5>
 	<h5><a href="https://humanebydesign.com/" class="publication">Humane by Design</a></h5>
-	<h5><a href="https://medium.com/topic/design" class="publication">Medium: Design</a></h5>
-	<h5><a href="https://medium.com/topic/future" class="publication">Medium: Future</a></h5>
-	<h5><a href="https://medium.com/topic/visual-design" class="publication">Medium: Visual Design</a></h5>
-	<h5><a href="https://medium.com/topic/ux" class="publication">Medium: UX</a></h5>
+	<h5><a href="https://medium.com/topic/design" class="publication">Medium</a></h5>
 	<h5><a href="https://modus.medium.com/" class="publication">Modus by Medium</a></h5>
 	<h5><a href="https://sidebar.io/" class="publication">Sidebar</a></h5>
 	<h5><a href="https://www.smashingmagazine.com/" class="publication">Smashing Magazine</a></h5>
