@@ -66,6 +66,8 @@ title: Jeremy D. Cherry
 	<h4><a href="https://virginiahumanities.org/" class="event">edUI Conference</a></h4>
   </div>  
 </div>
+</div>
+</div>
 
 <!-- Bottom -->
 <div class="main-wrapper">
@@ -99,4 +101,6 @@ title: Jeremy D. Cherry
 	<h5><a href="https://uxdesign.cc/" class="publication">UX Collective</a></h5>
 	<h5><a href="https://www.webdesignernews.com/" class="publication">Web Designer News</a></h5>
   </div>  
+</div>
+</div>
 </div>
