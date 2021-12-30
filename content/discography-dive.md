@@ -286,6 +286,5 @@ Simply put, if Wilco's not your favorite band you may want to reconsider your mu
 
 ---
 
-Happy Listening,
-
+Happy Listening,  
 Jeremy D. Cherry
