@@ -12,7 +12,7 @@ In 2018, I had a very delayed revelation: I can stream basically any record I wa
 
 This is where a timely New Year’s resolution came in. What if I spent a year immersing my eager ears in classic discographies, those same catalogs I used to fantasize about owning on disc. This ended up being a bigger task than I thought, 200+ records and countless hours of listening. I wanted to span catalogs across the spectrum and timeline.
 
-I spent a year with [the Beatles](), [John](), [Paul](), [George](), [Dylan](), [the Stones](), [Bowie](), [Springsteen](), [Petty](), [Michael Jackson](), [U2](), [The Cure](), [The Smiths](), [Radiohead](), and [Wilco]().
+I spent a year with [the Beatles](https://en.wikipedia.org/wiki/The_Beatles), [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [George](https://en.wikipedia.org/wiki/George_Harrison), [Dylan](https://en.wikipedia.org/wiki/Bob_Dylan), [the Stones](https://en.wikipedia.org/wiki/The_Rolling_Stones), [Bowie](https://en.wikipedia.org/wiki/David_Bowie), [Springsteen](https://en.wikipedia.org/wiki/Bruce_Springsteen), [Petty](https://en.wikipedia.org/wiki/Tom_Petty), [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson), [U2](https://en.wikipedia.org/wiki/U2), [The Cure](https://en.wikipedia.org/wiki/The_Cure), [The Smiths](https://en.wikipedia.org/wiki/The_Smiths), [Radiohead](https://en.wikipedia.org/wiki/Radiohead), and [Wilco](https://en.wikipedia.org/wiki/Wilco).
 
 Here's 15 key takeaways...
 
@@ -24,12 +24,12 @@ Like so many, I became obsessed with the Beatles at an early age. I was enamored
 
 ### Start Here
 
-## [_Abbey Road_]()
+## [_Abbey Road_](https://en.wikipedia.org/wiki/Abbey_Road)
 ###### 1969
 
 ### Dive Deeper
 
-## [_The Beatles (White Album)_]()
+## [_The Beatles (White Album)_](https://en.wikipedia.org/wiki/The_Beatles_(album))
 ###### 1968
 
 ---
@@ -42,12 +42,12 @@ Fewer folks have pushed the limits of music more than John Lennon. After writing
 
 #### Start Here
 
-## [_Imagine_]()
+## [_Imagine_](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_album))
 ###### 1971
 
 ### Dive Deeper
 
-## [_Mind Games_]()
+## [_Mind Games_](https://en.wikipedia.org/wiki/Mind_Games_(John_Lennon_album))
 ###### 1973
 
 ---
@@ -60,12 +60,12 @@ One of the most influential musicians to have ever lived. He continues to make h
 
 ### Start Here
 
-## [_Pipes of Peace_]()
+## [_Pipes of Peace_](https://en.wikipedia.org/wiki/Pipes_of_Peace)
 ###### 1983
 
 ### Dive Deeper
 
-## [_Chaos and Creation in the Backyard_]()
+## [_Chaos and Creation in the Backyard_](https://en.wikipedia.org/wiki/Chaos_and_Creation_in_the_Backyard)
 ###### 2005
 
 ---
@@ -78,12 +78,12 @@ George was always the quiet, mysterious one. Though most of his Beatles career h
 
 ### Start Here
 
-## [_All Things Must Pass_]()
+## [_All Things Must Pass_](https://en.wikipedia.org/wiki/All_Things_Must_Pass)
 ###### 1970
 
 ### Dive Deeper
 
-## [_George Harrison_]()
+## [_George Harrison_](https://en.wikipedia.org/wiki/George_Harrison_(album))
 ###### 1979
 
 ---
@@ -96,12 +96,12 @@ What can even be written about Bob Dylan that would do his legacy justice? It fe
 
 ### Start Here
 
-## [_Highway 61 Revisited_]()
+## [_Highway 61 Revisited_](https://en.wikipedia.org/wiki/Highway_61_Revisited)
 ###### 1965
 
 ### Dive Deeper
 
-## [_Time Out of Mind_]()
+## [_Time Out of Mind_](https://en.wikipedia.org/wiki/Time_Out_of_Mind_(Bob_Dylan_album))
 ###### 1997
 
 ---
@@ -114,12 +114,12 @@ I'm ashamed to admit that I shied away from The Rolling Stones discography for m
 
 ### Start Here
 
-## [_Beggars Banquet_]()
+## [_Beggars Banquet_](https://en.wikipedia.org/wiki/Beggars_Banquet)
 ###### 1968
 
 ### Dive Deeper
 
-## [_Emotional Rescue_]()
+## [_Emotional Rescue_](https://en.wikipedia.org/wiki/Emotional_Rescue)
 ###### 1980
 
 ---
@@ -132,12 +132,12 @@ I'm not convinced David Bowie is from Earth. Like seriously, is there proof? Bow
 
 ### Start Here
 
-## [_Heroes_]()
+## [_Heroes_](https://en.wikipedia.org/wiki/%22Heroes%22_(David_Bowie_album))
 ###### 1977
 
 ### Dive Deeper
 
-## [_Blackstar_]()
+## [_Blackstar_](https://en.wikipedia.org/wiki/Blackstar_(album))
 ###### 2016
 
 ---
@@ -150,12 +150,12 @@ It's hard to think of an America without Bruce Springsteen and the E Street Band
 
 ### Start Here
 
-## [_Born to Run_]()
+## [_Born to Run_](https://en.wikipedia.org/wiki/Born_to_Run)
 ###### 1975
 
 ### Dive Deeper
 
-## [_Nebraska_]()
+## [_Nebraska_](https://en.wikipedia.org/wiki/Nebraska_(album))
 ###### 1982
 
 ---
@@ -168,12 +168,12 @@ I still get chills when I hear the first chords of American Girl strike, it's ju
 
 ### Start Here
 
-## [_Full Moon Fever_]()
+## [_Full Moon Fever_](https://en.wikipedia.org/wiki/Full_Moon_Fever)
 ###### 1989
 
 ### Dive Deeper
 
-## [_Southern Accents_]()
+## [_Southern Accents_](https://en.wikipedia.org/wiki/Southern_Accents)
 ###### 1985
 
 ---
@@ -186,12 +186,12 @@ What can be said of the King of Pop that hasn't already been written? Michael Ja
 
 ### Start Here
 
-## [_Thriller_]()
+## [_Thriller_](https://en.wikipedia.org/wiki/Thriller_(album))
 ###### 1982
 
 ### Dive Deeper
 
-## [_Forever, Michael_]()
+## [_Forever, Michael_](https://en.wikipedia.org/wiki/Forever%2C_Michael)
 ###### 1975
 
 ---
@@ -204,12 +204,12 @@ From their early days touring the pub-circuit of the Emerald Isle to their uncan
 
 ### Start Here
 
-## [_Joshua Tree_]()
+## [_The Joshua Tree_](https://en.wikipedia.org/wiki/The_Joshua_Tree)
 ###### 1987
 
 ### Dive Deeper
 
-## [_Achtung Baby_]()
+## [_Achtung Baby_](https://en.wikipedia.org/wiki/Achtung_Baby)
 ###### 1991
 
 ---
@@ -222,12 +222,12 @@ As a teenager obsessed with the Emo scene, I became enamored with the Cure. They
 
 ### Start Here
 
-## [_Wish_]()
+## [_Wish_](https://en.wikipedia.org/wiki/Wish_(The_Cure_album))
 ###### 1992
 
 ### Dive Deeper
 
-## [_Disintegration_]()
+## [_Disintegration_](https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album))
 ###### 1989
 
 ---
@@ -240,12 +240,12 @@ Coming back to the scene of my teenage years, the Smiths were always the band th
 
 ### Start Here
 
-## [_The Queen is Dead_]()
+## [_The Queen is Dead_](https://en.wikipedia.org/wiki/The_Queen_Is_Dead)
 ###### 1986
 
 ### Dive Deeper
 
-## [_The Smiths_]()
+## [_The Smiths_](https://en.wikipedia.org/wiki/The_Smiths_(album))
 ###### 1984
 
 ---
@@ -258,12 +258,12 @@ Singing the praises of Radiohead in today's day and age almost feels too cliche 
 
 ### Start Here
 
-## [_Kid A_]()
+## [_Kid A_](https://en.wikipedia.org/wiki/Kid_A)
 ###### 2000
 
 ### Dive Deeper
 
-## [_In Rainbows_]()
+## [_In Rainbows_](https://en.wikipedia.org/wiki/In_Rainbows)
 ###### 2007
 
 ---
@@ -276,12 +276,12 @@ Simply put, if Wilco's not your favorite band you may want to reconsider your mu
 
 ### Start Here
 
-## [_Yankee Foxtrot Hotel_]()
+## [_Yankee Foxtrot Hotel_](https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot)
 ###### 2001
 
 ### Dive Deeper
 
-## [_Sky Blue Sky_]()
+## [_Sky Blue Sky_](https://en.wikipedia.org/wiki/Sky_Blue_Sky)
 ###### 2007
 
 ---
