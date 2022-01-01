@@ -40,7 +40,7 @@ Like so many, I became obsessed with the Beatles at an early age. I was enamored
 
 Fewer folks have pushed the limits of music more than John Lennon. After writing and co-writing some of the most noteworthy songs with the Beatles he went on to reinvent himself. Though his final years in the group brought their share of turmoil, his songwriting was unchained upon their breakup. He unleashed a catalog of music that sought to pay homage to his beginnings packed with creative surprises. I hate to admit it, but Yoko pushed him forward. Now if only she'd stop singing background vocals.
 
-#### Start Here
+### Start Here
 
 ## [_Imagine_](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_album))
 ###### 1971
