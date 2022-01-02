@@ -254,7 +254,7 @@ h1{
   font-size: 36px;
   font-weight: 500;
   letter-spacing: -0.03em;
-  line-height: 1.25;
+  line-height: 1.15;
   display: block;
   margin-block-start: 0;
   margin-block-end: .25em;
@@ -265,6 +265,21 @@ h1{
 }
 
 h2{
+  color: #000;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin-block-start: 0;
+  margin-block-end: .5em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h3{
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 22px;
@@ -279,11 +294,11 @@ h2{
   -moz-osx-font-smoothing: grayscale;
 }
 
-h2 a{
+h3 a{
   font-weight: 500;
 }
 
-h3{
+h4{
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -300,19 +315,6 @@ h3{
   -moz-osx-font-smoothing: grayscale;
 }
 
-h4{
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 13px;
-  font-weight: 400;
-  letter-spacing: -0.02em;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 h5{
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
@@ -320,7 +322,7 @@ h5{
   font-weight: 400;
   letter-spacing: -0.02em;
   margin-block-start: 0px;
-  margin-block-end: 1.5em;
+  margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   -webkit-font-smoothing: antialiased;

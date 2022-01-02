@@ -15,30 +15,30 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 ---
 
-### Select Writing
+#### Select Writing
 
 I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, and Web Designer News.
 
 ##### Here's a few favorites:
 
-## [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c)
+### [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c)
 ###### medium.com/journey-group
 
-## [A Designer’s Guide to Anxiety](https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12)
+### [A Designer’s Guide to Anxiety](https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12)
 ###### bootcamp.uxdesign.cc
 
-## [When Design Doesn’t Mimic Life](https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757)
+### [When Design Doesn’t Mimic Life](https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757)
 ###### medium.com/journey-group
 
-## [The Design of Tomorrow](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
+### [The Design of Tomorrow](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
 ###### uxdesign.cc
 
-## [Creating Users, Not Addicts](https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7)
+### [Creating Users, Not Addicts](https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7)
 ###### medium.com/journey-group
 
 ---
 
-### Book
+#### Book
 
 <div class="book">	
 	<div class="column-half col-book-half-1">
@@ -53,30 +53,30 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 ---
 
-### Select Speaking
+#### Select Speaking
 
 I’ve had the distinct honor speaking and teaching at incredible events like: edUI Conference, Ignite UX Michigan, Tom Tom Festival, Charlottesville Design Week, and Creative Mornings Charlottesville.
 
 ##### Here's a few you can watch online:
 
-## [Hopeful Design for Hopeless Times](https://www.youtube.com/watch?v=m6jV0ygv56Y)
+### [Hopeful Design for Hopeless Times](https://www.youtube.com/watch?v=m6jV0ygv56Y)
 ###### Ignite UX Michigan
 
-## [Rethinking Engagement](https://creativemornings.com/talks/jeremy-cherry/1)
+### [Rethinking Engagement](https://creativemornings.com/talks/jeremy-cherry/1)
 ###### Creative Mornings Charlottesville
 
 
 ---
 
-### Select Links
+#### Select Links
 
 As you can tell, I like lists of links. Whether it’s curating helpful design resources, annually ranking my favorite records, or diving into legendary discographies, you may find something of interest below.
 
-## [Design Resources](/resources)
+### [Design Resources](/resources)
 ###### jeremydcherry.com/resources
 
-## [My Top Twenty-Five Records](/25)
+### [My Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
 
-## [The Discography Dive](/discography-dive)
+### [The Discography Dive](/discography-dive)
 ###### jeremydcherry.com/discography-dive

@@ -6,11 +6,11 @@ permalink: /resources
 
 # Design Resources
 
-## An evergrowing list of curated design links
+### An evergrowing list of curated design links
 
 ---
 
-### [Inspiration](#inspiration):
+#### [Inspiration](#inspiration):
 
 - [Brand New](https://www.underconsideration.com/brandnew/): Branding inspiration for days
 
@@ -24,7 +24,7 @@ permalink: /resources
 
 ---
 
-### [Heroes](#heroes):
+#### [Heroes](#heroes):
 
 - [Michael Beirut](https://www.pentagram.com/about/michael-bierut): One of graphic design's GOATs
 
@@ -48,7 +48,7 @@ permalink: /resources
 
 ---
   
-### [Publications](#publications):
+#### [Publications](#publications):
 
 - [DesignBetter.Co](https://www.designbetter.co/): Design education by InVision
 
@@ -68,7 +68,7 @@ permalink: /resources
 
 ---
   
-### [Thinkers](#thinkers):
+#### [Thinkers](#thinkers):
 
 - [Center for Humane Tech](https://www.humanetech.com/): Supporting ethical tech innovation
 
@@ -80,7 +80,7 @@ permalink: /resources
 
 ---
   
-### [Books](#books):
+#### [Books](#books):
 
 - [_The Shape of Design_](https://shapeofdesignbook.com/): Frank Chimero's exploration into craft
 
@@ -94,7 +94,7 @@ permalink: /resources
 
 ---
   
-### [Publishers](#publishers):
+#### [Publishers](#publishers):
 
 - [A Book Apart](https://abookapart.com/): Brief books for people who design, write, and code
 
@@ -104,7 +104,7 @@ permalink: /resources
 
 ---
 
-### [Newsletters](#newsletters):
+#### [Newsletters](#newsletters):
 
 - [Story Matters](https://storymatters.com/): Collection of the best stories online
 
@@ -114,7 +114,7 @@ permalink: /resources
 
 ---
   
-### [TED Talks](#talks):
+#### [TED Talks](#talks):
 
 - [Tristan Harris](https://www.ted.com/talks/tristan_harris_how_a_handful_of_tech_companies_control_billions_of_minds_every_day): How tech companies control billions of minds
 
@@ -128,7 +128,7 @@ permalink: /resources
 
 ---
   
-### [Podcasts](#podcasts):
+#### [Podcasts](#podcasts):
 
 - [99% Invisible](https://99percentinvisible.org/): Roman Mars' world of design
 
