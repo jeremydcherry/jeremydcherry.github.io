@@ -180,7 +180,7 @@ I still get chills when I hear the first chords of American Girl strike, it's ju
 
 ![Michael Jackson](/images/discography-dive/takeaway-10.jpg)
 
-## 10. Michael the prodigy is as interesting as MJ the icon.
+## 10. Michael is interesting as a prodigy and an icon.
 
 What can be said of the King of Pop that hasn't already been written? Michael Jackson was a pop star, unlike the world, has ever seen. As a child of the 90's I felt like I was well steeped in the music of Michael Jackson. What I didn't realize then was his lifelong legacy as a musical prodigy. He was a natural talent that was just as captivating in the 70's and early 80's as he remained through his heyday. I firmly believe that the true Michael can only really be fully understood through the lens of his early years. It's impossible to fully appreciate his crowning achievements without understanding the early inspiration that grounded them.
 
@@ -216,7 +216,7 @@ From their early days touring the pub-circuit of the Emerald Isle to their uncan
 
 ![The Cure](/images/discography-dive/takeaway-12.jpg)
 
-## 12. The Cure’s catalog goes beyond a teenage obsession.
+## 12. The Cure goes beyond a teenage obsession.
 
 As a teenager obsessed with the Emo scene, I became enamored with the Cure. They embodied the moodiness I felt in these years but also offered the right amount of synthy brightness I needed to break out of the goth-rock phase. As years went on I always wondered, how would I view this teenage obsession in the years to come? Would I get just as much satisfaction listening to a record teenage Jeremy wore out on CD? The answer was a resounding yes. The Cure's catalog is more than it's early punk foundation, even more than their formational goth stage, it's emblematic of a group who always experimented with interesting moods. Robert Smith's brooding poetry layered atop these soundscapes created an experience unlike any of their peers.
 
@@ -276,12 +276,12 @@ Simply put, if Wilco's not your favorite band you may want to reconsider your mu
 
 #### Start Here
 
-## [_Yankee Foxtrot Hotel_](https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot)
+### [_Yankee Foxtrot Hotel_](https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot)
 ###### 2001
 
 #### Dive Deeper
 
-## [_Sky Blue Sky_](https://en.wikipedia.org/wiki/Sky_Blue_Sky)
+### [_Sky Blue Sky_](https://en.wikipedia.org/wiki/Sky_Blue_Sky)
 ###### 2007
 
 ---

@@ -318,7 +318,7 @@ h4{
 h5{
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 400;
   letter-spacing: -0.02em;
   margin-block-start: 0px;
@@ -522,16 +522,18 @@ footer a:hover{
   .error h1{font-size:80px;}
   .error h2{font-size:20px;}
   .error h5{font-size:16px;}
-  img{max-width: 300px;}
+  img{max-width: 256px;}
   img.avatar{margin: 0 0 10px;}
   .main-page{margin: 1em auto; max-width: 85%;}
   img.book-cover{width: 200px; margin:0 auto 1.25em;}
   .book{display: block;margin: 1em 0 30em;}
-  h1{font-size: 24px;}
-  h2{font-size: 19px;}
-  h3{font-size: 12px;}
-  h4{font-size: 13px;}
-  h5{font-size: 13px;}
+  p {font-size: 18px;}
+  h1{font-size: 26px;}
+  h2{font-size: 22px;}
+  h3{font-size: 18px; line-height: 1.5;}
+  h4{font-size: 12px;}
+  h5{font-size: 14px;}
+  h6{font-size: 12px;}
   hr {margin: 1.5em 0;}
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
   footer{font-size: 12px; padding: 25px 25px; height: 100px;}
