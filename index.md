@@ -19,7 +19,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, and Web Designer News.
 
-##### Here's a few favorites:
+##### _Here's a few favorites:_
 
 ### [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c)
 ###### medium.com/journey-group
@@ -57,7 +57,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 I’ve had the distinct honor speaking and teaching at incredible events like: edUI Conference, Ignite UX Michigan, Tom Tom Festival, Charlottesville Design Week, and Creative Mornings Charlottesville.
 
-##### Here's a few you can watch online:
+##### _Here's a few you can watch online:_
 
 ### [Hopeful Design for Hopeless Times](https://www.youtube.com/watch?v=m6jV0ygv56Y)
 ###### Ignite UX Michigan
