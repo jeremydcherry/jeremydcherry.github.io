@@ -21,6 +21,9 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 ##### _Here's a few favorites:_
 
+### [How “Kid A” Made Me a Better Designer](https://medium.com/journey-group/how-kid-a-made-me-a-better-designer-7d0bc56892f6)
+###### medium.com/journey-group
+
 ### [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c)
 ###### medium.com/journey-group
 
