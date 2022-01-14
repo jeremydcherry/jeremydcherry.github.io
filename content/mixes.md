@@ -6,7 +6,7 @@ permalink: /mixes
 
 # Mixes
 
-### A collection of my favorite mixes for your ears
+### The combination of my love for both mixtapes and album art
 
 ---
 
