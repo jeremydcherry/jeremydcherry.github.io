@@ -6,7 +6,7 @@ permalink: /mixes
 
 # Mixes
 
-### The combination of my love for both mixtapes and album art
+### A desginer's great excuse for making album art
 
 ---
 
