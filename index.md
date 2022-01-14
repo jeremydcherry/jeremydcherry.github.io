@@ -73,7 +73,7 @@ I’ve had the distinct honor speaking and teaching at incredible events like: e
 
 #### Select Links
 
-As you can tell, I like lists of links. Whether it’s curating helpful design resources, annually ranking my favorite records, or diving into legendary discographies, you may find something of interest below.
+As you can tell, I like lists of links. Whether it’s curating helpful design resources, annually ranking my favorite records, diving into legendary discographies, or curated mixes you may find something of interest below.
 
 ### [Design Resources](/resources)
 ###### jeremydcherry.com/resources
@@ -83,3 +83,6 @@ As you can tell, I like lists of links. Whether it’s curating helpful design r
 
 ### [The Discography Dive](/discography-dive)
 ###### jeremydcherry.com/discography-dive
+
+### [Mixes](/mixes)
+###### jeremydcherry.com/mixes
