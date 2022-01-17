@@ -52,15 +52,15 @@ permalink: /mixes
 
 #### My Top Twenty-Five Tracks
 
-- [_05.0025_2021_](https://open.spotify.com/playlist/0nMSOh5lGXqii6XWfPCF8Q?si=fb224f9606574ce3)
-
-- [_04.0025_2020_](https://open.spotify.com/playlist/7JX8juHaJHEeMxg9fuQT0J?si=6502da79b86b43ae)
-
-- [_03.0025_2019_](https://open.spotify.com/playlist/0RXcNXBp3KFNt9gjKIWZAR?si=949e235ffbad4f01)
+- [_01.0025_2017_](https://open.spotify.com/playlist/18VHKcDWkoilEHuB9tYZ7z?si=3ee6fd7e82794f37)
 
 - [_02.0025_2018_](https://open.spotify.com/playlist/5oOLmD3CsvR4XZFudO53SA?si=7dbd337809974285)
 
-- [_01.0025_2017_](https://open.spotify.com/playlist/18VHKcDWkoilEHuB9tYZ7z?si=3ee6fd7e82794f37)
+- [_03.0025_2019_](https://open.spotify.com/playlist/0RXcNXBp3KFNt9gjKIWZAR?si=949e235ffbad4f01)
+
+- [_04.0025_2020_](https://open.spotify.com/playlist/7JX8juHaJHEeMxg9fuQT0J?si=6502da79b86b43ae)
+
+- [_05.0025_2021_](https://open.spotify.com/playlist/0nMSOh5lGXqii6XWfPCF8Q?si=fb224f9606574ce3)
 
 ---
 
