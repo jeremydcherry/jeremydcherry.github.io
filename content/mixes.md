@@ -6,7 +6,7 @@ permalink: /mixes
 
 # Mixes
 
-### A designer's great excuse for making album art
+### A designer's excuse for making album art
 
 ---
 
