@@ -38,13 +38,13 @@ permalink: /mixes
 
 - [_Tempo_](https://open.spotify.com/playlist/1tQuaxP7sZOxo3mL5Hfcmu?si=b334262b474e4bbe) (Uptempo)
 
-- [_What the Folk? - Vol. 4_](https://open.spotify.com/playlist/1YfB0QlkGy5nBfdoqOhRuJ?si=7b3e8effc582491c) (Folk, Americana)
-
-- [_What the Folk? - Vol. 3_](https://open.spotify.com/playlist/4av8XZ0Oxh139Q2k55PJE4?si=ee1ac5ec52f342c6) (Folk, Americana)
+- [_What the Folk? - Vol. 1_](https://open.spotify.com/playlist/4uaQ74i2tVmzuwWOzq3GmC?si=ad01b5b0dc504f2d) (Folk, Americana)
 
 - [_What the Folk? - Vol. 2_](https://open.spotify.com/playlist/4SLeUOVGsniVSSYcz9lNaR?si=63d3490b1bc94fc4) (Folk, Americana)
 
-- [_What the Folk? - Vol. 1_](https://open.spotify.com/playlist/4uaQ74i2tVmzuwWOzq3GmC?si=ad01b5b0dc504f2d) (Folk, Americana)
+- [_What the Folk? - Vol. 3_](https://open.spotify.com/playlist/4av8XZ0Oxh139Q2k55PJE4?si=ee1ac5ec52f342c6) (Folk, Americana)
+
+- [_What the Folk? - Vol. 4_](https://open.spotify.com/playlist/1YfB0QlkGy5nBfdoqOhRuJ?si=7b3e8effc582491c) (Folk, Americana)
 
 ---
 
