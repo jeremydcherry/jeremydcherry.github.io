@@ -49,7 +49,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 	</div>	
 	<div class="column-half col-book-half-2">
 	    <h2>Designing Hope</h2>
-		<h5> An online, downloadable, and printed book that explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others (you do), this book is for you.</h5>
+		<h5> An online, downloadable, and printed book that explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others <em>(you do)</em>, this book is for you.</h5>
 		<a href="https://hopeful.design" class="btn_secondary">Start Reading ›</a>
 	</div>
 </div>
