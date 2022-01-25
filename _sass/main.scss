@@ -125,6 +125,19 @@ a:hover{
   color: #fff;
 }
 
+a.profile-home{
+  background-color: none;
+  border-bottom: 0;
+  opacity: 100%;
+  transition: .25s;
+}
+
+a.profile-home:hover{
+  background-color: #F4F4F3;
+  border-bottom: 0;
+  opacity: 70%;
+}
+
 .main-content {
   margin: 0 auto;
 }
@@ -216,7 +229,7 @@ img{
 img.avatar{
   border-radius: 100px;
   width: 130px;
-  margin: 0 0 15px;
+  margin: 0 0 10px;
 }
 
 img.book-cover{
