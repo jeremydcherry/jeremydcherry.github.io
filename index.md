@@ -33,9 +33,6 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 ### [When Design Doesn’t Mimic Life](https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757)
 ###### medium.com/journey-group
 
-### [The Design of Tomorrow](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
-###### uxdesign.cc
-
 ### [Creating Users, Not Addicts](https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7)
 ###### medium.com/journey-group
 
