@@ -11,7 +11,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work ›</a>
 
-##### If you'd like to collaborate, feel free to [email me](mailto:jeremy@jeremydcherry.com).
+##### - If you'd like to collaborate, feel free to [email me](mailto:jeremy@jeremydcherry.com).
 
 ---
 
@@ -65,17 +65,23 @@ I’ve had the distinct honor speaking and teaching at incredible events like: e
 ### [Rethinking Engagement](https://creativemornings.com/talks/jeremy-cherry/1)
 ###### Creative Mornings Charlottesville
 
+---
+
+#### Design Resources
+
+Looking for design resources? Here's an evergrowing list of curated design links. Whether it's noting my favorite design heroes, books, podcasts, talks, thinkers, or inspiring stories... 
+
+##### _You'll find it all here:_
+
+<a href="/resources" class="btn_secondary">View Resources</a>
 
 ---
 
-#### Select Links
+#### Currently Spinning
 
-As you can tell, I like lists of links. Whether it’s curating helpful design resources, annually ranking my favorite records, diving into legendary discographies, or curating mixes...
+The only thing I love more than lists of links is music. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes to have an excuse to create album art...
 
 ##### _You may find something of interest below:_
-
-### [Design Resources](/resources)
-###### jeremydcherry.com/resources
 
 ### [My Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
