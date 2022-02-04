@@ -11,7 +11,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work ›</a>
 
-##### - If you'd like to collaborate, feel free to [email me](mailto:jeremy@jeremydcherry.com).
+##### If you'd like to collaborate, feel free to [email me](mailto:jeremy@jeremydcherry.com).
 
 ---
 
