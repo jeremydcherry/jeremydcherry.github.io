@@ -79,7 +79,7 @@ Looking for design resources? Here's an evergrowing list of curated design links
 
 #### Currently Spinning
 
-The only thing I love more than lists of links is music. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes to have an excuse to create album art...
+The only thing I love more than lists of links is music. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes as an excuse to create album art...
 
 ##### _You may find something of interest below:_
 
