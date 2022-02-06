@@ -9,7 +9,7 @@ title: Jeremy D. Cherry
 
 Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I work at [Journey Group](https://journeygroup.com) in Charlottesville, VA. I write and speak about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
-<a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work ›</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
+<a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work &rarr;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
 
 ---
 
@@ -45,7 +45,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 	<div class="column-half col-book-half-2">
 	    <h2>Designing Hope</h2>
 		<h5> An online, downloadable, and printed book that explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others <em>(you do)</em>, this book is for you.</h5>
-		<a href="https://hopeful.design" class="btn_secondary">Start Reading ›</a>
+		<a href="https://hopeful.design" class="btn_secondary">Start Reading &rarr;</a>
 	</div>
 </div>
 
