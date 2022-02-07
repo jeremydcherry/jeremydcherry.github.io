@@ -84,6 +84,9 @@ The only thing I love more than lists of design links are lists of music links. 
 ### [My Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
 
+### [My Top Five](/top-five)
+###### jeremydcherry.com/top-five
+
 ### [The Discography Dive](/discography-dive)
 ###### jeremydcherry.com/discography-dive
 
