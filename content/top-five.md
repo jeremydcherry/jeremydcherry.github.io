@@ -55,7 +55,7 @@ I mean come on, it’s 3 Stacks. The man epitomizes hip-hop’s exploratory side
 
 ## 04. 2Pac
 
-Tupac Shakur is a legend. That sentence feels like the ultimate 90’s cliche, but it’s true. A debate ensues amongst listeners any time an artist is taken too young. Would these artists be lauded as the monumentals figure they are had their flame not been entiquished so early and so traumatically? For Pac, I think his legacy cemented itself before his untimely death. It may have taken us years to catch up to the endless posthumous catalog, making it quite daunting, but I’d argue that his work speaks for itself.
+Tupac Shakur is a legend. That sentence feels like the ultimate 90’s cliche, but it’s true. A debate ensues amongst listeners any time an artist is taken too young. Would these artists be lauded as the monumental figure they are had their flame not been extinguished so early and so traumatically? For Pac, I think his legacy cemented itself before his untimely death. It may have taken us years to catch up to the endless posthumous catalog, making it quite daunting, but I’d argue that his work speaks for itself.
 
 #### Best Track
 
