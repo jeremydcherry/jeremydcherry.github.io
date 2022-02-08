@@ -16,7 +16,7 @@ _Here's my top five..._
 
 ## 01. Kendrick Lamar
 
-Am I saying that K Dot is the GOAT? Why yes, yes I am. You may be saying to yourself, “Isn’t it too early to tell?” And to that, I’d respond with a confident, “Nope.” Allow me to explain. What a relatively young Kendrick has achieved artistically, musically, and sonically puts him on a plain all on his own. He’s already accomplished more in these departments than any other name that may be mentioned in the conversation of the greatest. It’s not always about who was the first, sometimes it’s just about who’s the best.
+Am I saying that K Dot is the GOAT? Why yes, yes I am. You may be saying to yourself, “Isn’t it too early to tell?” And to that, I’d respond with a confident, “Nope.” Allow me to explain. What a relatively young Kendrick has achieved artistically, musically, and sonically puts him on a plane all his own. He’s already accomplished more in these departments than any other name that may be mentioned in the conversation of the greatest. It’s not always about who was the first, sometimes it’s just about who’s the best.
 
 #### Best Track
 
@@ -42,7 +42,7 @@ It’s hard to know what to even say about the artist formerly known as Kanye We
 
 ## 03. André 3000
 
-I mean come on, it’s 3 Stacks. The man epitomizes hip-hop’s exploratory side. He not only exudes individuality, he completely re-invented the flow of hip-hop. The South still has something to say, and it’s through André’s _(and Big Boi’s)_ legacy. Though Outkast’s power may come from an undeniable chemistry between its dynamic duo, there’s just something about André that makes him magnetic. He’s bucked every expectation of what a “rapper” should be like, and led an entire class of emcees to follow in his large footsteps.
+I mean come on, it’s 3 Stacks. The man epitomizes hip-hop’s exploratory side. He not only exudes individuality, he completely reinvented the flow of hip-hop. The South still has something to say, and it’s through André’s _(and Big Boi’s)_ legacy. Though Outkast’s power may come from an undeniable chemistry between its dynamic duo, there’s just something about André that makes him magnetic. He’s bucked every expectation of what a “rapper” should be like, and led an entire class of emcees to follow in his large footsteps.
 
 #### Best Track
 
@@ -55,7 +55,7 @@ I mean come on, it’s 3 Stacks. The man epitomizes hip-hop’s exploratory side
 
 ## 04. 2Pac
 
-Tupac Shakur is a legend. That sentence feels like the penultimate 90’s cliche, but it’s true. A debate ensues amongst listeners any time an artist is taken too young. Would these artists be lauded as the monumentals figure they are had their flame not been entiquished so early and so traumatically? For Pac, I think his legacy cemented itself before his untimely death. It may have taken us years to catch up to the endless posthumous catalog, making it quite daunting, but I’d argue that his work speaks for itself.
+Tupac Shakur is a legend. That sentence feels like the ultimate 90’s cliche, but it’s true. A debate ensues amongst listeners any time an artist is taken too young. Would these artists be lauded as the monumentals figure they are had their flame not been entiquished so early and so traumatically? For Pac, I think his legacy cemented itself before his untimely death. It may have taken us years to catch up to the endless posthumous catalog, making it quite daunting, but I’d argue that his work speaks for itself.
 
 #### Best Track
 
