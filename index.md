@@ -13,7 +13,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 ---
 
-#### Select Writing
+#### [Writing](#writing):
 
 I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, and Web Designer News.
 
@@ -51,7 +51,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 ---
 
-#### Select Speaking
+#### [Speaking](#speaking):
 
 I’ve had the distinct honor speaking and teaching at incredible events like: edUI Conference, Ignite UX Michigan, Tom Tom Festival, Charlottesville Design Week, and Creative Mornings Charlottesville.
 
@@ -75,7 +75,7 @@ Looking for design resources? Here's an evergrowing list of curated design links
 
 ---
 
-#### Currently Spinning
+#### [Currently Spinning](#currently-spinning):
 
 The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes as an excuse to create album art...
 
