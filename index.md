@@ -15,7 +15,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 #### [Writing](#writing):
 
-I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Magazine, and Web Designer News.
+I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Mag, and Web Designer News.
 
 ##### _Here's a few favorites:_
 
