@@ -55,6 +55,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 I’ve had the distinct honor speaking and teaching at incredible events like: edUI Conference, Ignite UX Michigan, Tom Tom Festival, Charlottesville Design Week, and Creative Mornings Charlottesville.
 
+<a href="mailto:speaking@jeremydcherry.com" class="btn_secondary">Let's Collaborate</a>
 ##### _Here's a few you can watch online:_
 
 ### [Hopeful Design for Hopeless Times](https://www.youtube.com/watch?v=m6jV0ygv56Y)
