@@ -6,7 +6,7 @@ permalink: /resources
 
 # Design Resources
 
-### An evergrowing list of curated design links
+### An ever growing list of curated design links
 
 ---
 
