@@ -88,7 +88,7 @@ permalink: /resources
 
 - [_Atomic Design_](https://atomicdesign.bradfrost.com/): Brad Frost's method for designing systems
 
-- [_Better Web Type_](https://betterwebtype.com/web-typography-book/): Matej Latin's resource on web typography
+- [_Better Web Typography for a Better Web_](https://betterwebtype.com/web-typography-book/): Matej Latin's resource on web typography
 
 - [_Designing Hope_](https://www.hopeful.design/): Jeremy Cherry's fearless self-promotion
 
