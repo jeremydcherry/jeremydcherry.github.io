@@ -6,7 +6,7 @@ permalink: /speaking
 
 # Speaking
 
-### Teaching design ethics & theory to other humans
+### Talking design with other humans
 
 ---
 
