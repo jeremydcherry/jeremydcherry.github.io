@@ -31,6 +31,10 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 ### [Creating Users, Not Addicts](https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7)
 ###### medium.com/journey-group
 
+##### _If you'd like to keep reading, head over here:_
+
+<a href="https://jeremydcherry.medium.com/" class="btn_secondary">More Essays &rarr;</a>
+
 ---
 
 #### Book
