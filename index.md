@@ -22,9 +22,6 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 ### [How “Kid A” Made Me a Better Designer](https://medium.com/journey-group/how-kid-a-made-me-a-better-designer-7d0bc56892f6)
 ###### medium.com/journey-group
 
-### [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c)
-###### medium.com/journey-group
-
 ### [A Designer’s Guide to Anxiety](https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12)
 ###### bootcamp.uxdesign.cc
 
@@ -51,26 +48,17 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 ---
 
-#### [Speaking](#speaking):
+#### Speaking:
 
-I’ve had the distinct honor speaking and teaching at incredible events like: edUI Conference, Ignite UX Michigan, Tom Tom Festival, Charlottesville Design Week, and Creative Mornings Charlottesville.
+I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. My experience as a speaker and educator covers a wide range of settings and topics. Whether it be delivering keynote speeches or leading practice-based workshops, I get so much life from connecting with communities through this work.
 
-<a href="mailto:speaking@jeremydcherry.com" class="btn_secondary">Let's Collaborate</a>
-##### _Here's a few you can watch online:_
-
-### [Hopeful Design for Hopeless Times](https://www.youtube.com/watch?v=m6jV0ygv56Y)
-###### Ignite UX Michigan
-
-### [Rethinking Engagement](https://creativemornings.com/talks/jeremy-cherry/1)
-###### Creative Mornings Charlottesville
+<a href="/speaking" class="btn_secondary">Learn More</a>
 
 ---
 
 #### Design Resources
 
-Looking for design resources? Here's an evergrowing list of curated design links. Whether it's noting my favorite design heroes, books, podcasts, talks, thinkers, or inspiring stories... 
-
-##### _You'll find it all here:_
+Looking for design resources? Here's an evergrowing list of curated design links. Whether it's noting my favorite design heroes, books, podcasts, talks, thinkers, or inspiring stories, you'll find it all here.
 
 <a href="/resources" class="btn_secondary">View Resources</a>
 
@@ -78,9 +66,7 @@ Looking for design resources? Here's an evergrowing list of curated design links
 
 #### [Currently Spinning](#currently-spinning):
 
-The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes as an excuse to create album art...
-
-##### _You may find something of interest below:_
+The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes as an excuse to create album art, you may find something of interest below.
 
 ### [My Annual Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
