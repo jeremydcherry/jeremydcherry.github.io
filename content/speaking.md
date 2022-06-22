@@ -25,6 +25,7 @@ My favorite topic to speak about is how hope impacts the work we create for othe
 ##### _Areas of Focus:_
 
 * Design Ethics
+* Design Theory
 * Hopeful Design
 * Service Design
 * Community Building
