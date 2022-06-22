@@ -10,7 +10,7 @@ permalink: /speaking
 
 ---
 
-![Kendrick Lamar](/images/speaking-img.jpg)
+![Jeremy D. Cherry speaking at an event](/images/speaking-img.jpg)
 
 I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. My experience as a speaker and educator covers a wide range of settings and topics. I’ve spoken to classrooms in public universities, community colleges, and even an international high school in Taiwan. I’ve had the privilege of speaking at numerous events and conferences like Tom Tom Festival, Ignite UX Michigan, edUI, and Creative Mornings. Finally, I’ve greatly enjoyed working with teams of fellow designers like the talented folks at Spotify, Willowtree, and VMDO Architects to find ways to incorporate ethics into professional communities. Whether it be delivering keynote speeches or leading practice-based workshops, I get so much life from connecting with others through this work.
 
