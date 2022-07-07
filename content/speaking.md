@@ -14,7 +14,7 @@ permalink: /speaking
 
 I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. My experience as a speaker and educator covers a wide range of settings and topics. I’ve spoken to classrooms in public universities, community colleges, and an international school in Taiwan. I’ve had the privilege of speaking at events and conferences, including Tom Tom Festival, Ignite UX Michigan, edUI, and Creative Mornings. Finally, I’ve worked with teams of fellow designers, including the talented folks at Spotify, WillowTree, and VMDO Architects, to find ways to incorporate ethics into professional communities. Whether it be delivering keynote speeches or leading practice-based workshops, I get so much life from connecting with others through this work.
 
-<a href="mailto:speaking@jeremydcherry.com" class="btn">Let's Collaborate</a>
+<a href="mailto:speaking@jeremydcherry.com" class="btn">Let's Collaborate</a><a href="/resources/jdc-speaker-profile.pdf" class="btn_secondary">Speaker Profile &rarr;</a>
 
 ---
 
@@ -24,18 +24,19 @@ My favorite topic to speak about is how hope impacts the work we create for othe
 
 ##### _Areas of Focus:_
 
+* Branding & Identity
+* Community Building
 * Design Ethics
 * Design Theory
-* Hopeful Design
-* Service Design
-* Community Building
-* Mental Health
-* User Experience
-* Branding & Identity
-* Social Interaction
 * Empathy & Usability
-* Humane Technology
 * Evaluating Trends
+* Hopeful Design
+* Humane Technology
+* Mental Health
+* Service Design
+* Social Interaction
+* User Experience
+
 
 ---
 
