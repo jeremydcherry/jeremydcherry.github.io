@@ -37,7 +37,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 ---
 
-#### Book
+#### Book:
 
 <div class="book">	
 	<div class="column-half col-book-half-1">
@@ -60,7 +60,7 @@ I’ve had the distinct honor of teaching design ethics and theory to folks all 
 
 ---
 
-#### Design Resources
+#### Design Resources:
 
 Looking for design resources? Here's an evergrowing list of curated design links. Whether it's noting my favorite design heroes, books, podcasts, talks, thinkers, or inspiring stories, you'll find it all here.
 
