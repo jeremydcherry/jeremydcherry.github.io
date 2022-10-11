@@ -154,5 +154,5 @@ permalink: /resources
 
 ---
 
-A huge thank you to all of you that have shared resources with me.
+##### A huge thank you to all of you that have shared resources with me.
 
