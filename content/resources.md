@@ -152,3 +152,7 @@ permalink: /resources
 
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX Design resources for kids
 
+---
+
+A huge thank you to all of you that have shared resources with me.
+
