@@ -139,3 +139,16 @@ permalink: /resources
 - [Your Undivided Attention](https://www.humanetech.com/podcast): Tristan Harris' look at tech ethics
 
 - [Reply All](https://gimletmedia.com/shows/reply-all): Gimlet's podcast about the internet
+
+---
+  
+#### [Education](#education):
+
+- [What is design?](https://www.kooslooijesteijn.net/blog/what-is-design): Koos Looijesteijn's definition of design
+
+- [Reading Design](https://www.readingdesign.org/): Online archive of critical writing about design
+
+- [Degreeless.design](https://degreeless.design/): Almost everything I learned in design school in one website
+
+- [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX Design resources for kids
+
