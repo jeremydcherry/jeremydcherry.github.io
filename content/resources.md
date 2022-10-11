@@ -148,7 +148,9 @@ permalink: /resources
 
 - [Reading Design](https://www.readingdesign.org/): Online archive of critical writing about design
 
-- [Degreeless.design](https://degreeless.design/): Almost everything I learned in design school in one website
+- [Degreeless.design](https://degreeless.design/): Almost everything I learned in design school
+
+- [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c): The other things I didn't
 
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX Design resources for kids
 
