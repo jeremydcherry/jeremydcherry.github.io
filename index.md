@@ -7,7 +7,7 @@ title: Jeremy D. Cherry
 
 # Design with purpose
 
-Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I work at [Journey Group](https://journeygroup.com) in Charlottesville, VA. I write and speak about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
+Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I write and speak about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work &rarr;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
 
