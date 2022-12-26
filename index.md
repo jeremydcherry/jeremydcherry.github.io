@@ -51,7 +51,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 #### Speaking:
 
-I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. Whether delivering keynotes or leading workshops, I love connecting with communities through coversation.
+I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. Whether delivering keynotes or leading workshops, I love connecting with communities through conversation.
 
 <a href="/speaking" class="btn_secondary">Learn More</a>
 
