@@ -51,7 +51,7 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 
 #### Speaking:
 
-I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. My experience as a speaker and educator covers a wide range of settings and topics. Whether it be delivering keynote speeches or leading practice-based workshops, I get so much life from connecting with communities through this work.
+I’ve had the distinct honor of teaching design ethics and theory to folks all over the world. Whether it be delivering keynotes or leading workshops, I love connecting with communities through this work.
 
 <a href="/speaking" class="btn_secondary">Learn More</a>
 
@@ -67,7 +67,7 @@ Looking for design resources? Here's an evergrowing list of curated design links
 
 #### [Currently Spinning](#currently-spinning):
 
-The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records, diving into legendary discographies, or curating mixes as an excuse to create album art, you may find something of interest below.
+The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records or diving into legendary discographies, you may find something of interest below.
 
 ### [My Annual Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
