@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: secondary
+title: My Top Five
+subtitle: The best emcees in the game
 permalink: /top-five
----
-
-# My Top Five
-### The best emcees in the game
-
 ---
 
 Can I be real with you for a minute? Assuming your answer is yes, I’ll proceed. I totally judge hip-hop heads based on their ability to quickly and confidently name their top five. It’s an age-old hip-hop tradition. To know hip-hop is to know your top five. I don’t make the rules, I just follow them. Relatedly, to know and love hip-hop is to have opinions about who’s the best, the greatest. Just like how classic rock nerds may debate the best Beatles or Stones records, hip-hop heads care deeply about who is wearing the crown.

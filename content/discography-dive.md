@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: secondary
+title: The Discography Dive
+subtitle: What I learned from 365 days of classic discographies
 permalink: /discography-dive
----
-
-# The Discography Dive
-### What I learned from 365 days of classic discographies
-
 ---
 
 In 2018, I had a very delayed revelation: I can stream basically any record I want. As a kid, I remember combing through the CD shelves dreaming, "What if I could buy every Beatles record?" Naturally, my weekly allowance hardly put a dent into this musical fantasy. In a streaming world, I’ve been amazed at how quickly I’ve become desensitized to having basically everything at my fingertips.

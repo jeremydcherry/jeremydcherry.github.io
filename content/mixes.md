@@ -1,13 +1,8 @@
 ---
-layout: default
-title: Jeremy D. Cherry
+layout: secondary
+title: Mixes
+subtitle: A designer's excuse for making album art
 permalink: /mixes
----
-
-# Mixes
-
-### A designer's excuse for making album art
-
 ---
 
 <!-- Mixes -->
