@@ -5,7 +5,9 @@ title: Jeremy D. Cherry
 
 <img src="/images/jdc-pattern.svg" class="header-pattern">
 
-I'm Jeremy D. Cherry, a brand designer in Charlottesville, VA. Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I write and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
+# Design with Purpose
+
+Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I write and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work &rarr;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
 
@@ -15,20 +17,9 @@ I'm Jeremy D. Cherry, a brand designer in Charlottesville, VA. Relentlessly hope
 
 I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Ethical Design Resources, Ethical Design Network, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Magazine, and Web Designer News.
 
-##### _Here's a few favorites:_
+##### _If you'd like to read my essays, head over here:_
 
-### [A Designer’s Guide to Anxiety](https://bootcamp.uxdesign.cc/a-designers-guide-to-anxiety-6da57ffe3c12)
-###### bootcamp.uxdesign.cc
-
-### [When Design Doesn’t Mimic Life](https://medium.com/journey-group/the-art-of-abstraction-85971f5c4757)
-###### medium.com/journey-group
-
-### [Creating Users, Not Addicts](https://medium.com/journey-group/creating-users-not-addicts-73e1774297c7)
-###### medium.com/journey-group
-
-##### _If you'd like to keep reading, head over here:_
-
-<a href="https://jeremydcherry.medium.com/" class="btn_secondary">More Essays &rarr;</a>
+<a href="https://jeremydcherry.medium.com/" class="btn_secondary">Start Reading &rarr;</a>
 
 ---
 
