@@ -7,9 +7,9 @@ permalink: /resources
 
 Over the years, I've had a lot of design-loving folks ask me for my favorite resources. So, I decided to curate an ever-growing list of design resources from all over the interwebs. I've always had the distinct honor of passing along the wisdom that's been graciously passed along to me. 
 
-May we design with purpose.
+So, this is a _huge_ thank you to those who shared resources with me.
 
-And a _huge_ thank you to all of you that have shared resources with me.
+May we design with purpose.
 
 ---
 
