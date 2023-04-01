@@ -13,16 +13,6 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 ---
 
-#### [Writing](#writing):
-
-I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Ethical Design Resources, Ethical Design Network, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Magazine, and Web Designer News.
-
-##### _If you'd like to read my essays, head over here:_
-
-<a href="https://jeremydcherry.medium.com/" class="btn_secondary">Start Reading &rarr;</a>
-
----
-
 #### Book:
 
 <div class="book">	
@@ -35,6 +25,16 @@ I’ve had the distinct honor of being published by hardworking folks like: Boot
 		<a href="https://hopeful.design" class="btn_secondary">Start Reading &rarr;</a>
 	</div>
 </div>
+
+---
+
+#### Writing:
+
+I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Ethical Design Resources, Ethical Design Network, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Magazine, and Web Designer News.
+
+##### _If you'd like to read my essays, head over here:_
+
+<a href="https://jeremydcherry.medium.com/" class="btn_secondary">Start Reading &rarr;</a>
 
 ---
 
