@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: secondary
 title: Design Resources
+subtitle: An ever-growing list of curated design links
 permalink: /resources
 ---
 
-# Design Resources
+Over the years, I've had a lot of design-loving folks ask me for my favorite resources. So, I decided to curate an ever-growing list of design resources all over the interwebs. I've always had the distinct honor of passing along the wisdom that's been graciously passed along to me. 
 
-### An ever growing list of curated design links
+May we design with purpose.
+
+And a _huge_ thank you to all of you that have shared resources with me.
 
 ---
 
