@@ -33,17 +33,11 @@ May we design with purpose.
 
 - [Bruce Mau](https://brucemaustudio.com/): Your favorite designer's favorite designer
 
-- [Tobias van Schneider](https://vanschneider.com/): Digital design prodigy
-
-- [Claudio Guglieri](https://guglieri.com/): Digital design innovator
-
 - [Bethany Heck](https://heckhouse.com/): Typography expert
 
 - [Frank Chimero](https://frankchimero.com/): Designer, writer, thinker
 
 - [Tristan Harris](https://www.tristanharris.com/): Digital design ethicist
-
-- [Brad Frost](https://bradfrost.com/): Creator of atomic design
 
 - [Roman Mars](https://www.romanmars.com/): Podcast legend
 
@@ -53,9 +47,9 @@ May we design with purpose.
   
 #### [Publications](#publications):
 
-- [DesignBetter.Co](https://www.designbetter.co/): Design education by InVision
+- [Co.Design](https://www.fastcompany.com/co-design): Fast Company's design section
 
-- [Inside Design](https://www.invisionapp.com/inside-design/): Design blog by InVision
+- [Great Discontent](https://thegreatdiscontent.com/): More interviews with global creatives
 
 - [A List Apart](https://alistapart.com/): The go-to resource for digital thinkers
 
@@ -64,10 +58,6 @@ May we design with purpose.
 - [Interface Lovers](https://www.loversmagazine.com/): Interviews with Digital Designers
 
 - [Offscreen](https://www.offscreenmag.com/): An offline magazine about the online world
-
-- [Co.Design](https://www.fastcompany.com/co-design): Fast Company's design section
-
-- [Great Discontent](https://thegreatdiscontent.com/): More interviews with global creatives
 
 ---
   
