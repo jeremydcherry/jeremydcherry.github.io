@@ -7,7 +7,7 @@ title: Jeremy D. Cherry
 
 # Design with Purpose
 
-Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I write and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
+Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I [write](https://jeremydcherry.medium.com/) and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work &rarr;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
 
@@ -28,19 +28,9 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 ---
 
-#### Writing:
-
-I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Ethical Design Resources, Ethical Design Network, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, UX Magazine, and Web Designer News.
-
-##### _If you'd like to read my essays, head over here:_
-
-<a href="https://jeremydcherry.medium.com/" class="btn_secondary">Start Reading &rarr;</a>
-
----
-
 #### [Currently Spinning](#currently-spinning):
 
-The only thing I love more than lists of design links are lists of music links. Whether it’s annually ranking my favorite records or diving into legendary discographies, you may find something of interest below.
+The only thing I love more than lists of design links are lists of music links. Whether it’s ranking my favorite music or diving into discographies, you may find something of interest below.
 
 ### [My Top Twenty-Five Records](/25)
 ###### jeremydcherry.com/25
