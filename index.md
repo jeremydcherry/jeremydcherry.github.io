@@ -7,7 +7,9 @@ title: Jeremy D. Cherry
 
 #### About:
 
-Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I [write](https://jeremydcherry.medium.com/) and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
+Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). 
+
+I [write](https://jeremydcherry.medium.com/) and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
 <a href="https://jeremydcherry.dribbble.com/" class="btn">Explore Work &rarr;</a><a href="mailto:jeremy@jeremydcherry.com" class="btn_secondary">Contact Me</a>
 
