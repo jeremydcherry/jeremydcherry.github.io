@@ -1,7 +1,7 @@
 ---
 layout: secondary
 title: The Discography Dive
-subtitle: What I learned from 365 days of classic discographies
+subtitle: Jeremy D. Cherry
 permalink: /discography-dive
 ---
 

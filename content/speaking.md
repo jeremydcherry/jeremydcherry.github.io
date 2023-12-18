@@ -1,7 +1,7 @@
 ---
 layout: secondary
 title: Speaking
-subtitle: Talking design with other humans
+subtitle: Jeremy D. Cherry
 permalink: /speaking
 ---
 

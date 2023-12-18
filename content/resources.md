@@ -1,7 +1,7 @@
 ---
 layout: secondary
 title: Design Resources
-subtitle: An ever-growing list of curated design links
+subtitle: Jeremy D. Cherry
 permalink: /resources
 ---
 

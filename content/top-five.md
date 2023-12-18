@@ -1,7 +1,7 @@
 ---
 layout: secondary
 title: My Top Five
-subtitle: The best emcees in the game
+subtitle: Jeremy D. Cherry
 permalink: /top-five
 ---
 

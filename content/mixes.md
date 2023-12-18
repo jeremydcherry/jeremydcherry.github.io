@@ -1,7 +1,7 @@
 ---
 layout: secondary
 title: Mixes
-subtitle: A designer's excuse for making album art
+subtitle: Jeremy D. Cherry
 permalink: /mixes
 ---
 
