@@ -5,7 +5,7 @@ title: Jeremy D. Cherry
 
 <img src="/images/jdc-pattern.svg" class="header-pattern">
 
-# Design with Purpose
+#### About:
 
 Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I [write](https://jeremydcherry.medium.com/) and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
@@ -13,22 +13,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 ---
 
-#### Book:
-
-<div class="book">	
-	<div class="column-half col-book-half-1">
-		<a href="https://hopeful.design"><img src="/images/designinghope_cover.png" class="book-cover" alt="Designing Hope Book Cover"></a>
-	</div>	
-	<div class="column-half col-book-half-2">
-	    <h2>Designing Hope</h2>
-		<h5> An online, downloadable, and printed book that explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others <em>(you do)</em>, this book is for you.</h5>
-		<a href="https://hopeful.design" class="btn_secondary">Start Reading &rarr;</a>
-	</div>
-</div>
-
----
-
-#### [Currently Spinning](#currently-spinning):
+#### Currently Spinning:
 
 The only thing I love more than lists of design links are lists of music links. Whether it’s ranking my favorite music or diving into discographies, you may find something of interest below.
 
