@@ -204,13 +204,12 @@ a.btn:hover{
 
 a.btn_secondary{
   color: #000;
-  background-color: #eee;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  border: 0;
+  border: 1 solid #000;
   border-radius: 50px;
   padding: 10px 40px;
   transition: .25s;
