@@ -9,37 +9,37 @@ permalink: /mixes
 
 #### Mixes
 
-- [_LONG LIVE POP._](https://open.spotify.com/playlist/3HgeNh5sMEenZeJnztxlqG?si=1eb1030661964c8f), Indie Pop · 58"
+- [_LONG LIVE POP._](https://open.spotify.com/playlist/3HgeNh5sMEenZeJnztxlqG?si=1eb1030661964c8f), Indie Pop
 
-- [_Ascending Dream_](https://open.spotify.com/playlist/1pscJkw5mBO4lCkr3OsaoT?si=529832b5dd9b4253), Ambient · 44"
+- [_Ascending Dream_](https://open.spotify.com/playlist/1pscJkw5mBO4lCkr3OsaoT?si=529832b5dd9b4253), Ambient
 
-- [_A Wandering Mist_](https://open.spotify.com/playlist/1iuS2WXRXtwoZSsIyjU5p6?si=2b9247946b2d4b04), Contemplative · 58"
+- [_A Wandering Mist_](https://open.spotify.com/playlist/1iuS2WXRXtwoZSsIyjU5p6?si=2b9247946b2d4b04), Contemplative
 
-- [_Tesseract_](https://open.spotify.com/playlist/6MgByPgm48gpkQOxcyRoYp?si=ae4f114ce61343fb), Ambient · 54"
+- [_Tesseract_](https://open.spotify.com/playlist/6MgByPgm48gpkQOxcyRoYp?si=ae4f114ce61343fb), Ambient
 
-- [_Neue Grass_](https://open.spotify.com/playlist/6gb3oLk7qCA3xDVUndpWWU?si=da21f9e86d9b4624), Bluegrass/Americana · 40"
+- [_Neue Grass_](https://open.spotify.com/playlist/6gb3oLk7qCA3xDVUndpWWU?si=da21f9e86d9b4624), Bluegrass/Americana
 
-- [_There is a Light That Never Goes Out_](https://open.spotify.com/playlist/4dY0ZRGe02IOzclcD6AT9b?si=4a387a1c1c374ddc), Uplifting · 41"
+- [_There is a Light That Never Goes Out_](https://open.spotify.com/playlist/4dY0ZRGe02IOzclcD6AT9b?si=4a387a1c1c374ddc), Uplifting
 
-- [_A Light Through the Pines Mix_](https://open.spotify.com/playlist/4iE05nEaBbKTtKSCvQr69d?si=e444007ec647490d), Ambient · 48"
+- [_A Light Through the Pines Mix_](https://open.spotify.com/playlist/4iE05nEaBbKTtKSCvQr69d?si=e444007ec647490d), Ambient
 
-- [_Painted Skyline_](https://open.spotify.com/playlist/2YcuEzpwpEDIXUsEnUN8fp?si=e997134bdf304477), Americana · 48"
+- [_Painted Skyline_](https://open.spotify.com/playlist/2YcuEzpwpEDIXUsEnUN8fp?si=e997134bdf304477), Americana
 
-- [_Excelsior_](https://open.spotify.com/playlist/4SZwfbm4VnisKPQyDJYaja?si=96f2c0abb5c04337), Building · 55"
+- [_Excelsior_](https://open.spotify.com/playlist/4SZwfbm4VnisKPQyDJYaja?si=96f2c0abb5c04337), Building
 
-- [_WILD_](https://open.spotify.com/playlist/6aFTspRu4no1H2rjHabWDh?si=fb9058a3d5d14a78), Uptempo · 46"
+- [_WILD_](https://open.spotify.com/playlist/6aFTspRu4no1H2rjHabWDh?si=fb9058a3d5d14a78), Uptempo
 
-- [_Weightless_](https://open.spotify.com/playlist/5WrMHpyOqgbM9OyqayS0QA?si=5f774586699047a5), Contemplative · 45"
+- [_Weightless_](https://open.spotify.com/playlist/5WrMHpyOqgbM9OyqayS0QA?si=5f774586699047a5), Contemplative
 
-- [_Tempo_](https://open.spotify.com/playlist/1tQuaxP7sZOxo3mL5Hfcmu?si=b334262b474e4bbe), Uptempo · 45"
+- [_Tempo_](https://open.spotify.com/playlist/1tQuaxP7sZOxo3mL5Hfcmu?si=b334262b474e4bbe), Uptempo
 
-- [_What the Folk? - Vol. 1_](https://open.spotify.com/playlist/4uaQ74i2tVmzuwWOzq3GmC?si=ad01b5b0dc504f2d), Folk/Americana · 47"
+- [_What the Folk? - Vol. 1_](https://open.spotify.com/playlist/4uaQ74i2tVmzuwWOzq3GmC?si=ad01b5b0dc504f2d), Folk/Americana
 
-- [_What the Folk? - Vol. 2_](https://open.spotify.com/playlist/4SLeUOVGsniVSSYcz9lNaR?si=63d3490b1bc94fc4), Folk/Americana · 46"
+- [_What the Folk? - Vol. 2_](https://open.spotify.com/playlist/4SLeUOVGsniVSSYcz9lNaR?si=63d3490b1bc94fc4), Folk/Americana
 
-- [_What the Folk? - Vol. 3_](https://open.spotify.com/playlist/4av8XZ0Oxh139Q2k55PJE4?si=ee1ac5ec52f342c6), Folk/Americana · 44"
+- [_What the Folk? - Vol. 3_](https://open.spotify.com/playlist/4av8XZ0Oxh139Q2k55PJE4?si=ee1ac5ec52f342c6), Folk/Americana
 
-- [_What the Folk? - Vol. 4_](https://open.spotify.com/playlist/1YfB0QlkGy5nBfdoqOhRuJ?si=7b3e8effc582491c), Folk/Americana · 45"
+- [_What the Folk? - Vol. 4_](https://open.spotify.com/playlist/1YfB0QlkGy5nBfdoqOhRuJ?si=7b3e8effc582491c), Folk/Americana
 
 ---
 
