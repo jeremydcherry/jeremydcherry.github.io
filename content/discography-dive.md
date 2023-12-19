@@ -280,8 +280,3 @@ Simply put, if Wilco's not your favorite band you may want to reconsider your mu
 
 ### [_Sky Blue Sky_](https://en.wikipedia.org/wiki/Sky_Blue_Sky)
 ###### 2007
-
----
-
-Happy Listening,  
-Jeremy D. Cherry

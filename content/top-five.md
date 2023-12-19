@@ -71,8 +71,3 @@ Black Thought continues to affirm the craft of hip-hop lyricism. He’s a master
 
 ### [_How I Got Over_](https://open.spotify.com/track/51bnnsURQ9bITMraBp4Vbu?si=d2568a9b1ab34fa7), _How I Got Over_
 ###### 2010
-
----
-
-Happy Listening,  
-Jeremy D. Cherry

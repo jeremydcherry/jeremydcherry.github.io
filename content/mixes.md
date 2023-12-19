@@ -56,8 +56,3 @@ permalink: /mixes
 - [_04.0025_2020_](https://open.spotify.com/playlist/7JX8juHaJHEeMxg9fuQT0J?si=6502da79b86b43ae)
 
 - [_05.0025_2021_](https://open.spotify.com/playlist/0nMSOh5lGXqii6XWfPCF8Q?si=fb224f9606574ce3)
-
----
-
-Happy Listening,  
-Jeremy D. Cherry
