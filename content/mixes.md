@@ -56,3 +56,7 @@ permalink: /mixes
 - [_04.0025_2020_](https://open.spotify.com/playlist/7JX8juHaJHEeMxg9fuQT0J?si=6502da79b86b43ae)
 
 - [_05.0025_2021_](https://open.spotify.com/playlist/0nMSOh5lGXqii6XWfPCF8Q?si=fb224f9606574ce3)
+
+- [_06.0025_2022_](https://open.spotify.com/playlist/3TZooCIwFfuTahSD91BhYs?si=943bd1953d524d03)
+
+- [_07.0025_2023_](https://open.spotify.com/playlist/34DjTd5GHOVy1Yo6aEbuHy?si=5d9d9d006dc9449f)
