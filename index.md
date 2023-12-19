@@ -1,5 +1,5 @@
 ---
-layout: primary
+layout: default
 title: Jeremy D. Cherry
 ---
 
