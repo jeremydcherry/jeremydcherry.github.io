@@ -9,7 +9,7 @@ title: Jeremy D. Cherry
 
 Relentlessly hopeful about the power of design, I live by the words “A better way is possible.” With over a decade of experience telling stories through brands, I have worked with clients from a wide variety of industries based all over the globe. I lead the Brand Studio at [Journey Group](https://journeygroup.com). I [write](https://jeremydcherry.medium.com/) and [speak](/speaking) about the intersection of design and ethics. Seeking to add hope back to the conversation, I wrote a book called [_Designing Hope_](https://hopeful.design).
 
-<a href="mailto:jeremy@jeremydcherry.com" class="btn">Contact Me</a>
+<a href="mailto:jeremy@jeremydcherry.com" class="btn">Let's Collaborate</a>
 
 ---
 
