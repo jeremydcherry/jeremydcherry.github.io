@@ -17,14 +17,10 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 The only thing I love more than lists of _design_ links are lists of _music_ links. Whether it’s ranking my favorite music or diving into discographies, you may find something of interest below.
 
-### [My Top Twenty-Five Records](/25)
-###### jeremydcherry.com/25
+- [My Top Twenty-Five Records](/25)
 
-### [My Top Five](/top-five)
-###### jeremydcherry.com/top-five
+- [My Top Five](/top-five)
 
-### [My Mixes](/mixes)
-###### jeremydcherry.com/mixes
+- [My Mixes](/mixes)
 
-### [The Discography Dive](/discography-dive)
-###### jeremydcherry.com/discography-dive
+- [The Discography Dive](/discography-dive)
