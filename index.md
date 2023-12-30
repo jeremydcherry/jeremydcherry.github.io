@@ -15,7 +15,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 #### Currently Spinning:
 
-The only thing I love more than lists of _design_ links are lists of _music_ links. Whether it’s ranking my favorite music or diving into discographies, you may find something of interest below.
+The only thing I love more than lists of _design_ links are lists of _music_ links. Whether it’s ranking my favorite music or diving into discographies, you may find something of interest below:
 
 - [My Top Twenty-Five Records](/25)
 
