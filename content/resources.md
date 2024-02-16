@@ -145,4 +145,6 @@ May we design with purpose.
 
 - [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c): Some personal wisdom
 
-- [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX Design resources for kids
+- [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX design resources for kids
+
+- [Kids' Computer Essentials: Graphic Design](https://www.uscareerinstitute.edu/blog/kids-computer-essentials-graphic-design): Learn graphic design
