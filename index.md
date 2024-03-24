@@ -11,7 +11,7 @@ Relentlessly hopeful about the power of design, I live by the words “A better 
 
 <a href="mailto:jeremy@jeremydcherry.com" class="btn">Let's Collaborate</a>
 
-##### Looking for design resources? [Here you are](/resources).
+##### _Looking for design resources? [Here you are](/resources)._
 
 ---
 
