@@ -5,12 +5,15 @@ subtitle: A manifesto for making meaning
 permalink: /brandsarehuman
 ---
 
+#### Manifesto:
+
 A brand is only as good as the human endeavor it represents. Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
 
 ---
 
 #### Tenets:
 
+<br/>
 
 ## Represent Humans
 Brands must be organic and ecological. They strive to reflect the community they represent.
