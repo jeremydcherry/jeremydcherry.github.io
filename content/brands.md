@@ -29,7 +29,7 @@ Brands must be honest. They strive to foster trust by faithfully reflecting a co
 Brands must be responsible and sustainable. They strive to reduce waste by being mindful of their footprint.
  
 ## Clarify Confusion
-Brands must be clear. They strive to fight confusion with clarity and skepticism with hope.
+Brands must be clear. They strive to fight confusion with clarity and battle skepticism with hope.
 
 ## Resonate Ideals
 Brands must symbolize the good we wish to embody. They strive to sew harmony in a community of unified voices.
