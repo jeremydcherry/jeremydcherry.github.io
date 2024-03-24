@@ -9,7 +9,7 @@ permalink: /brandsarehuman
 
 Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
 
-Meaningful brands:
+_Meaningful brands:_
 
 
 ## 01. Represent Humans
