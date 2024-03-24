@@ -7,9 +7,7 @@ permalink: /brandsarehuman
 
 <img src="/images/jdc-pattern.svg" class="header-pattern">
 
-# A brand is only as good as the human endeavor it represents. 
-
-Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
+A brand is only as good as the human endeavor it represents. Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
 
 _Meaningful brands:_
 
