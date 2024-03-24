@@ -13,7 +13,6 @@ A brand is only as good as the human endeavor it represents. Meaningful brands t
 
 #### Tenets:
 
-<br/>
 
 ## Represent Humans
 Brands must be organic and ecological. They strive to reflect the community they represent.
