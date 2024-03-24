@@ -5,7 +5,9 @@ subtitle: A manifesto for making meaning
 permalink: /brandsarehuman
 ---
 
-A brand is only as good as the human endeavor it represents. Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
+# A brand is only as good as the human endeavor it represents. 
+
+Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.
 
 Meaningful brands…
 
