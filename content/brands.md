@@ -19,7 +19,7 @@ Brands must be organic and ecological. They strive to reflect the community they
 Brands must transmit and translate value to their community. They strive to always be both useful and beautiful.
 
 ## Dignify Viewers
-Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla.
+Brands must honor their community. They strive to provide meaning and shape to their environment.
 
 ## Portray Authenticity
 Brands must be honest. They strive to foster trust by faithfully reflecting a community’s aspirations.
