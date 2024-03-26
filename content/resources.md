@@ -115,8 +115,6 @@ May we design with purpose.
 
 - [A Book Apart](https://abookapart.com/): Brief books for people who design, write, and code
 
-- [Smashing Magazine Books](https://www.smashingmagazine.com/printed-books/): Knowledge shared by practitioners
-
 - [Rosenfeld Media](https://rosenfeldmedia.com/books/): Wordclass thoughts leaders in User Experience
 
 ---
