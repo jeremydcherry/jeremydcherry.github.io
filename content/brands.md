@@ -5,11 +5,13 @@ subtitle: A manifesto for making meaning
 permalink: /brandsarehuman
 ---
 
+<img src="/images/brands-pattern.svg" class="header-pattern">
+
 #### Manifesto:
 
 <span class="manifesto">A brand is only as good as the <em>human</em> endeavor it represents. Meaningful brands transmit value, dignify viewers, portray products and services authentically, reduce waste, clarify confusion, and resonate with our highest ideals.</span>
 
-<img src="/images/brands-pattern.svg" class="header-pattern">
+---
 
 #### Tenets:
 
