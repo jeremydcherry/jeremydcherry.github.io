@@ -33,3 +33,7 @@ Brands must be clear. They strive to fight confusion with clarity and battle ske
 
 ## Resonate Ideals
 Brands must symbolize the good we wish to embody. They strive to sew harmony in a community of unified voices.
+
+---
+
+An ardent thank you to my faithful colleagues at [Journey Group](https://journeygroup.com) who helped me put the wisdom learned from them into words.
