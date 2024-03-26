@@ -29,15 +29,9 @@ May we design with purpose.
 
 - [Bruce Mau](https://brucemaustudio.com/): Your favorite designer's favorite designer
 
-- [Bethany Heck](https://heckhouse.com/): Typography expert
-
 - [Frank Chimero](https://frankchimero.com/): Designer, writer, thinker
 
-- [Tristan Harris](https://www.tristanharris.com/): Digital design ethicist
-
 - [Roman Mars](https://www.romanmars.com/): Podcast legend
-
-- [Fabricio Teixeira](https://fabricio.work/): Digital design thought leader
 
 ---
   
@@ -47,11 +41,7 @@ May we design with purpose.
 
 - [Great Discontent](https://thegreatdiscontent.com/): More interviews with global creatives
 
-- [A List Apart](https://alistapart.com/): The go-to resource for digital thinkers
-
 - [UX Collective](https://uxdesign.cc/): Collaborative publication for UX Design
-
-- [Interface Lovers](https://www.loversmagazine.com/): Interviews with Digital Designers
 
 - [Offscreen](https://www.offscreenmag.com/): An offline magazine about the online world
 
@@ -63,8 +53,6 @@ May we design with purpose.
 
 - [Humane by Design](https://humanebydesign.com/): Resources that help you design for humans
 
-- [Nielsen Norman Group](https://humanebydesign.com/): Leaders in user experience research
-
 - [Jigsaw](https://jigsaw.google.com/): Google's iniative for a safer web
 
 ---
@@ -74,8 +62,6 @@ May we design with purpose.
 - [_The Shape of Design_](https://shapeofdesignbook.com/): Frank Chimero's exploration into craft
 
 - [_Resilient Web Design_](https://resilientwebdesign.com/): Jeremy Keith's look at a more resilient web
-
-- [_Atomic Design_](https://atomicdesign.bradfrost.com/): Brad Frost's method for designing systems
 
 - [_Better Web Typography for a Better Web_](https://betterwebtype.com/web-typography-book/): Matej Latin's resource on web typography
 
@@ -105,15 +91,13 @@ May we design with purpose.
   
 #### [TED Talks](#talks):
 
-- [Tristan Harris](https://www.ted.com/talks/tristan_harris_how_a_handful_of_tech_companies_control_billions_of_minds_every_day): How tech companies control billions of minds
-
 - [Michael Bierut](https://www.ted.com/talks/michael_bierut_how_to_design_a_library_that_makes_kids_want_to_read): How to design a library that makes kids read
 
 - [Debbie Millman](https://www.ted.com/talks/debbie_millman_how_symbols_and_brands_shape_our_humanity): How symbols and brands shape our humanity
 
 - [Roman Mars](https://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed): Why city flags may be the worst-designed thing
 
-- [Claudio Guglieri](https://www.youtube.com/watch?v=njcpgtnyKRk): Making technology more natural
+- [Tristan Harris](https://www.ted.com/talks/tristan_harris_how_a_handful_of_tech_companies_control_billions_of_minds_every_day): How tech companies control billions of minds
 
 ---
   
@@ -124,8 +108,6 @@ May we design with purpose.
 - [Nice Try!](https://podcasts.voxmedia.com/show/nice-try): Avery Trufelman's look at failed design experiments
 
 - [The Rabbit Hole](https://www.nytimes.com/column/rabbit-hole): New York Times' deep-dive into YouTube culture
-
-- [Your Undivided Attention](https://www.humanetech.com/podcast): Tristan Harris' look at tech ethics
 
 - [Reply All](https://gimletmedia.com/shows/reply-all): Gimlet's podcast about the internet
 
