@@ -121,7 +121,7 @@ May we design with purpose.
 
 - [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c): Some personal wisdom
 
-- [_Better Web Type_](https://betterwebtype.com/): Matej Latin's resource on web typography
+- [Better Web Type](https://betterwebtype.com/): Matej Latin's resource on web typography
 
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX design resources for kids
 
