@@ -66,16 +66,6 @@ May we design with purpose.
 - [_Designing Hope_](https://www.hopeful.design/): Jeremy Cherry's fearless self-promotion
 
 ---
-  
-#### [Publishers](#publishers):
-
-- [A Book Apart](https://abookapart.com/): Brief books for people who design, write, and code
-
-- [Smashing Magazine Books](https://www.smashingmagazine.com/printed-books/): Knowledge shared by practitioners
-
-- [Rosenfeld Media](https://rosenfeldmedia.com/books/): Wordclass thoughts leaders in User Experience
-
----
 
 #### [Newsletters](#newsletters):
 
@@ -122,6 +112,12 @@ May we design with purpose.
 - [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c): Some personal wisdom
 
 - [Better Web Type](https://betterwebtype.com/): Matej Latin's resource on web typography
+
+- [A Book Apart](https://abookapart.com/): Brief books for people who design, write, and code
+
+- [Smashing Magazine Books](https://www.smashingmagazine.com/printed-books/): Knowledge shared by practitioners
+
+- [Rosenfeld Media](https://rosenfeldmedia.com/books/): Wordclass thoughts leaders in User Experience
 
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX design resources for kids
 
