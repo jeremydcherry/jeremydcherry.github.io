@@ -15,6 +15,8 @@ permalink: /brandsarehuman
 
 #### Tenets:
 
+<img src="/images/tenet-1.svg" class="tenet-glyph">
+
 ## Represent Humans
 Brands must be organic and ecological. They strive to reflect the community they represent.
 
