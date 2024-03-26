@@ -119,6 +119,10 @@ May we design with purpose.
 
 - [Rosenfeld Media](https://rosenfeldmedia.com/books/): Wordclass thoughts leaders in User Experience
 
+---
+  
+#### [For Kids](#kids):
+
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX design resources for kids
 
 - [Kids' Computer Essentials: Graphic Design](https://www.uscareerinstitute.edu/blog/kids-computer-essentials-graphic-design): Learn graphic design
