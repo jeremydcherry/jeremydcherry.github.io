@@ -17,13 +17,9 @@ May we design with purpose.
 
 - [Brand New](https://www.underconsideration.com/brandnew/): Branding inspiration for days
 
-- [SiteInspire](https://www.siteinspire.com/): Most beautiful sites on the web
-
 - [Typewolf](https://www.typewolf.com/): Best inspiration for web typography
 
-- [Awwwards](https://www.awwwards.com/websites/): Awards for web nerds
-
-- [Codrops](https://tympanus.net/codrops/): Frontend design experiments
+- [SiteInspire](https://www.siteinspire.com/): Most beautiful sites on the web
 
 ---
 
