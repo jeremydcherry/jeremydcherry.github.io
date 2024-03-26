@@ -63,8 +63,6 @@ May we design with purpose.
 
 - [_Resilient Web Design_](https://resilientwebdesign.com/): Jeremy Keith's look at a more resilient web
 
-- [_Better Web Typography for a Better Web_](https://betterwebtype.com/web-typography-book/): Matej Latin's resource on web typography
-
 - [_Designing Hope_](https://www.hopeful.design/): Jeremy Cherry's fearless self-promotion
 
 ---
@@ -122,6 +120,8 @@ May we design with purpose.
 - [Degreeless.design](https://degreeless.design/): Almost everything I learned in design school
 
 - [10 Things You Can’t Learn in Design School](https://medium.com/journey-group/10-things-you-cant-learn-in-design-school-7a70ec63550c): Some personal wisdom
+
+- [_Better Web Type_](https://betterwebtype.com/): Matej Latin's resource on web typography
 
 - [UX Design for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide): UX design resources for kids
 
