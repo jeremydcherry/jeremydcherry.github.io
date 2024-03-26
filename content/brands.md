@@ -38,4 +38,4 @@ Brands must symbolize the good we wish to embody. They strive to sew harmony in 
 
 ---
 
-A heartfelt thank you to my faithful colleagues at [Journey Group](https://journeygroup.com) who helped me put the wisdom I learned from them into words.
+A thank you to my faithful colleagues at [Journey Group](https://journeygroup.com) whose wisdom shaped these words.
