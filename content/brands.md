@@ -16,25 +16,25 @@ permalink: /brandsarehuman
 #### Tenets:
 
 ## Represent Humans
-Brands must be organic and ecological. They strive to reflect the community they represent.
+Brands must be ecological, reflecting the community they represent.
 
 ## Transmit Value
-Brands must transmit and translate value to their community. They strive to always be both useful and beautiful.
+Brands must be useful, being both helpful and beautiful.
 
 ## Dignify Viewers
-Brands must honor their community. They strive to provide meaning and shape to their environment.
+Brands must honor humans, providing meaning to their environment.
 
 ## Portray Authenticity
-Brands must be honest. They strive to foster trust by faithfully reflecting a community’s aspirations.
+Brands must be honest, faithfully reflecting human aspirations.
 
 ## Reduce Waste
-Brands must be responsible and sustainable. They strive to reduce waste by being mindful of their footprint.
+Brands must be responsible, being mindful of their footprint.
  
 ## Clarify Confusion
-Brands must be clear. They strive to fight confusion with clarity and battle skepticism with hope.
+Brands must be clear, fighting confusion with clarity.
 
 ## Resonate Ideals
-Brands must symbolize the good we wish to embody. They strive to sew harmony in a community of unified voices.
+Brands must symbolize shared values, sewing harmony amongst diverse voices.
 
 ---
 
