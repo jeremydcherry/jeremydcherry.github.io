@@ -36,4 +36,4 @@ Brands must symbolize shared values, sewing harmony amongst diverse voices.
 
 ---
 
-##### _A thank you to my faithful [colleagues](https://journeygroup.com) whose wisdom shaped these words._
+##### _Thank you to my faithful [colleagues](https://journeygroup.com) whose wisdom shaped these words._
