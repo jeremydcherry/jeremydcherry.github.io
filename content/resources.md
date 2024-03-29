@@ -5,7 +5,9 @@ subtitle: Jeremy D. Cherry
 permalink: /resources
 ---
 
-Over the years, I've had a lot of design-loving folks ask me for my favorite resources. So, I decided to curate a list of design resources from all over the interwebs. I'm grateful to pass along the wisdom that's been given to me. So, this is a _huge_ thank you to those who shared resources with me. May we design with purpose.
+Over the years, I've had a lot of design-loving folks ask me for my favorite resources. So, I decided to curate a list of design resources from all over the interwebs. I'm grateful to pass along the wisdom that's been given to me. So, this is a _huge_ thank you to those who shared resources with me. 
+
+May we design with purpose.
 
 ---
 
