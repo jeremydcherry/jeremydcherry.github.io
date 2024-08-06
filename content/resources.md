@@ -21,7 +21,11 @@ Over the years, I've had a lot of design-loving folks ask me for my favorite res
 
 #### [Heroes](#heroes):
 
+- [Sister Corita Kent](https://www.corita.org/about/corita): The biggest heart in design
+
 - [Michael Beirut](https://www.pentagram.com/about/michael-bierut): One of graphic design's GOATs
+
+- [Paula Scher](https://www.pentagram.com/about/paula-scher): An absolute design legend
 
 - [Bruce Mau](https://brucemaustudio.com/): Your favorite designer's favorite designer
 
