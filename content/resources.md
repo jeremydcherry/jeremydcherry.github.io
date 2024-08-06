@@ -31,7 +31,7 @@ Over the years, I've had a lot of design-loving folks ask me for my favorite res
 
 - [Frank Chimero](https://frankchimero.com/): Designer, writer, thinker
 
-- [Roman Mars](https://www.romanmars.com/): Podcast legend
+- [Roman Mars](https://www.romanmars.com/): Design podcast pioneer
 
 ---
   
