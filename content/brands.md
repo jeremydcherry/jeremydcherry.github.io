@@ -13,25 +13,25 @@ permalink: /brandsarehuman
 
 #### Tenets:
 
-# 01. Represent Humans
+## 01. Represent Humans
 Brands must be ecological, reflecting the community they represent.
 
-# 02. Transmit Value
+## 02. Transmit Value
 Brands must be useful, being both helpful and beautiful.
 
-# 03. Dignify Viewers
+## 03. Dignify Viewers
 Brands must honor humans, providing meaning to their environment.
 
-# 04. Portray Authenticity
+## 04. Portray Authenticity
 Brands must be honest, faithfully reflecting human aspirations.
 
-# 05. Reduce Waste
+## 05. Reduce Waste
 Brands must be responsible, being mindful of their footprint.
  
-# 06. Clarify Confusion
+## 06. Clarify Confusion
 Brands must be clear, fighting confusion with clarity.
 
-# 07. Resonate Ideals
+## 07. Resonate Ideals
 Brands must symbolize shared values, sewing harmony amongst diverse voices.
 
 ---
