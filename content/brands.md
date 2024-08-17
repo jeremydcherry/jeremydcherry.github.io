@@ -20,7 +20,7 @@ Brands must be ecological, reflecting the community they represent.
 Brands must be useful, being both helpful and beautiful.
 
 ## 03. Dignify Viewers
-Brands must honor humans, providing meaning to their environment.
+Brands must be thoughtful, providing meaning to their environment.
 
 ## 04. Portray Authenticity
 Brands must be honest, faithfully reflecting human aspirations.
@@ -32,7 +32,7 @@ Brands must be responsible, being mindful of their footprint.
 Brands must be clear, fighting confusion with clarity.
 
 ## 07. Resonate Ideals
-Brands must symbolize shared values, sewing harmony amongst diverse voices.
+Brands must be symbolic, sewing harmony amongst diversity.
 
 ---
 
