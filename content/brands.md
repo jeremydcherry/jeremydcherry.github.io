@@ -1,6 +1,6 @@
 ---
 layout: manifesto
-title: Brands are Human
+title: Brands Are Human
 subtitle: A manifesto for making meaning
 permalink: /brandsarehuman
 ---
