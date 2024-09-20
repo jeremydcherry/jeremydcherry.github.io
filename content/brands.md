@@ -40,6 +40,8 @@ Brands must be symbolic, sewing harmony amongst diversity.
 
 Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
 
+- [_Watching Robots Paint_](https://www.journeygroup.com/essays/watching-robots-paint)
+
 - [_When Design Doesn’t Mimic Life_](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
 
 - [_A Minefield of Assumptions_](https://www.journeygroup.com/essays/minefield-assumptions)
