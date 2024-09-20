@@ -38,11 +38,11 @@ Brands must be symbolic, sewing harmony amongst diversity.
 
 #### Musings:
 
-Here's a collections of essays I've written over the years pondering the topic of creating compassionate work for other humans:
+Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
 
-- [When Design Doesn’t Mimic Life](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
+- [_When Design Doesn’t Mimic Life_](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
 
-- [A Minefield of Assumptions](https://www.journeygroup.com/essays/minefield-assumptions)
+- [_A Minefield of Assumptions_](https://www.journeygroup.com/essays/minefield-assumptions)
 
 ---
 
