@@ -117,6 +117,8 @@ Over the years, I've had a lot of design-loving folks ask me for my favorite res
 
 - [Rosenfeld Media](https://rosenfeldmedia.com/books/): Wordclass thoughts leaders in User Experience
 
+- [User Experience Glossary](https://www.qualtrics.com/blog/ux-design-glossary/): Qualtric's glossary UX terminology
+
 ---
   
 #### [For Kids](#kids):
