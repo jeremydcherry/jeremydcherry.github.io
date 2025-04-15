@@ -11,7 +11,7 @@ I’ve had the distinct honor of teaching design ethics and theory to folks all 
 
 ---
 
-#### [Expertise](#expertise):
+#### Expertise:
 
 My favorite topic to speak about is how hope impacts the work we create for other humans. I’m generally skeptical of big tech because of how it can treat humans like data points that solely impact profit margins. I firmly believe that with the power of emerging technology comes an increased responsibility to those engaging with our work. However, I’m confident that if designers learn to embrace people with hope and lean into the complexity of working with others, we could change the products we create for the better.
 
@@ -33,7 +33,7 @@ My favorite topic to speak about is how hope impacts the work we create for othe
 
 ---
 
-#### [Videos](#Videos):
+#### Videos:
 
 ##### _Here's a few talks you can watch online:_
 
