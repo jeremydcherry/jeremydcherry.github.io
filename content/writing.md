@@ -11,7 +11,7 @@ permalink: /writing
 
 A book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
 
-<a href="https://hopeful.design" class="btn_secondary">Read the Book →</a>
+<a href="https://hopeful.design" class="btn_secondary">Read the Book ›</a>
 
 ---
 
