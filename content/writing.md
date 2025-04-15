@@ -19,7 +19,7 @@ A book that explores creating compassionate work for humans. It defines a design
 
 ## _Brands Are Human_
 
-A brand is only as good as the human endeavor it represents. These words attempt to capture the heart behind why creating brands for humans is a form of compassionate design. It's a manifesto for making meaning.
+A brand is only as good as the human endeavor it represents. These words the heart behind why creating brands for humans is a form of compassionate design. It's a manifesto for making meaning.
 
 <a href="/brandsarehuman" class="btn_secondary">Read the Manifesto</a>
 
