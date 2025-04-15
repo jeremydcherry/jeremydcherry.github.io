@@ -25,39 +25,28 @@ A brand is only as good as the human endeavor it represents. These words attempt
 
 ---
 
-#### [Essays](#essays):
+#### [Musings](#essays):
 
 ##### _Here's a few essays you can read online:_
 
-### [Watching Robots Paint](https://www.journeygroup.com/essays/watching-robots-paint)
-###### Journey Group
+- [Watching Robots Paint](https://www.journeygroup.com/essays/watching-robots-paint)
 
-### [How “Kid A” Made Me a Better Designer](https://www.journeygroup.com/essays/how-kid-made-me-better-designer)
-###### Journey Group
+- [How “Kid A” Made Me a Better Designer](https://www.journeygroup.com/essays/how-kid-made-me-better-designer)
 
-### [10 Things You Can’t Learn in Design School](https://www.journeygroup.com/essays/10-things-you-cant-learn-design-school)
-###### Journey Group
+- [10 Things You Can’t Learn in Design School](https://www.journeygroup.com/essays/10-things-you-cant-learn-design-school)
 
-### [A designer’s guide to anxiety](https://medium.com/design-bootcamp/a-designers-guide-to-anxiety-6da57ffe3c12)
-###### Bootcamp
+- [A designer’s guide to anxiety](https://medium.com/design-bootcamp/a-designers-guide-to-anxiety-6da57ffe3c12)
 
-### [When Design Doesn’t Mimic Life](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
-###### Journey Group
+- [When Design Doesn’t Mimic Life](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
 
-### [The Ancient Art of UX](https://www.journeygroup.com/essays/ancient-art-ux)
-###### Journey Group
+- [The Ancient Art of UX](https://www.journeygroup.com/essays/ancient-art-ux)
 
-### [The design of tomorrow: How the future of design lies in your humanity](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
-###### UX Collective
+- [The design of tomorrow: How the future of design lies in your humanity](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
 
-### [Better Design for Boomers](https://www.journeygroup.com/essays/better-design-boomers)
-###### Journey Group
+- [Better Design for Boomers](https://www.journeygroup.com/essays/better-design-boomers)
 
-### [Confronting the illusion of choice](https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8)
-###### UX Collective
+- [Confronting the illusion of choice](https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8)
 
-### [A Minefield of Assumptions](https://www.journeygroup.com/essays/minefield-assumptions)
-###### Journey Group
+- [A Minefield of Assumptions](https://www.journeygroup.com/essays/minefield-assumptions)
 
-### [Creating Users, Not Addicts](https://www.journeygroup.com/essays/creating-users-not-addicts)
-###### Journey Group
+- [Creating Users, Not Addicts](https://www.journeygroup.com/essays/creating-users-not-addicts)
