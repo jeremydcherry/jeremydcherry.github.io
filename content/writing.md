@@ -35,17 +35,17 @@ Here's a collections of essays I've written pondering the topic of creating comp
 
 - [10 Things You Can’t Learn in Design School](https://www.journeygroup.com/essays/10-things-you-cant-learn-design-school)
 
-- [A designer’s guide to anxiety](https://medium.com/design-bootcamp/a-designers-guide-to-anxiety-6da57ffe3c12)
+- [A Designer’s Guide to Anxiety](https://medium.com/design-bootcamp/a-designers-guide-to-anxiety-6da57ffe3c12)
 
 - [When Design Doesn’t Mimic Life](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
 
 - [The Ancient Art of UX](https://www.journeygroup.com/essays/ancient-art-ux)
 
-- [The design of tomorrow: How the future of design lies in your humanity](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
+- [The Design of Tomorrow](https://uxdesign.cc/the-design-of-tomorrow-how-the-future-of-design-lies-in-your-humanity-810a05995115)
 
 - [Better Design for Boomers](https://www.journeygroup.com/essays/better-design-boomers)
 
-- [Confronting the illusion of choice](https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8)
+- [Confronting the Illusion of Choice](https://uxdesign.cc/confronting-the-illusion-of-choice-7e72b26978c8)
 
 - [A Minefield of Assumptions](https://www.journeygroup.com/essays/minefield-assumptions)
 
