@@ -5,7 +5,7 @@ subtitle: Jeremy D. Cherry
 permalink: /writing
 --- 
 
-#### [Book](#book):
+#### Book:
 
 ## _Designing Hope_
 
@@ -15,7 +15,7 @@ A book that explores creating compassionate work for humans. It defines a design
 
 ---
 
-#### [Manifesto](#manifesto):
+#### Manifesto:
 
 ## _Brands Are Human_
 
@@ -25,7 +25,7 @@ A brand is only as good as the human endeavor it represents. These words attempt
 
 ---
 
-#### [Musings](#essays):
+#### Musings:
 
 Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
 
