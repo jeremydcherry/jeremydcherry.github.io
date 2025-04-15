@@ -27,7 +27,7 @@ A brand is only as good as the human endeavor it represents. These words attempt
 
 #### [Musings](#essays):
 
-##### _Here's a few essays you can read online:_
+Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
 
 - [Watching Robots Paint](https://www.journeygroup.com/essays/watching-robots-paint)
 
