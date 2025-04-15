@@ -3,11 +3,7 @@ layout: secondary
 title: Writing
 subtitle: Jeremy D. Cherry
 permalink: /writing
----
-
-I’ve had the distinct honor of writing about design ethics and theory over my career. My experience as a practicing designing has led me to cover a wide range of ideas and topics. I’ve captured the lengthier thoughts in longform. I’ve had the distinct honor of being published by hardworking folks like: Bootcamp, Creative Mornings, Communication Arts, Framer, Humane by Design, Medium, Modus, Sidebar, Smashing Magazine, Story Matters, UX Collective, and Web Designer News.
-
----
+--- 
 
 #### [Book](#book):
 
