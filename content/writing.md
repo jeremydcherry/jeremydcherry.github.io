@@ -9,7 +9,7 @@ permalink: /writing
 
 ## _Designing Hope_
 
-A book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others (you do), this book is for you.
+A book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
 
 <a href="https://hopeful.design" class="btn">Read the Book →</a>
 
