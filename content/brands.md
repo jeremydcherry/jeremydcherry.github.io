@@ -19,7 +19,7 @@ Brands must be ecological, reflecting who they represent.
 ## 02. Transmit Value
 Brands must be useful, being both helpful and beautiful.
 
-## 03. Dignify Viewers
+## 03. Dignify Participants
 Brands must be thoughtful, providing meaning to communities.
 
 ## 04. Portray Authenticity
@@ -38,13 +38,9 @@ Brands must be symbolic, sewing harmony amongst diversity.
 
 #### Musings:
 
-Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
+Here's more I've written pondering the topic of creating compassionate work for other humans:
 
-- [_Watching Robots Paint_](https://www.journeygroup.com/essays/watching-robots-paint)
-
-- [_When Design Doesn’t Mimic Life_](https://www.journeygroup.com/essays/when-design-doesnt-mimic-life)
-
-- [_A Minefield of Assumptions_](https://www.journeygroup.com/essays/minefield-assumptions)
+<a href="/writing" class="btn_secondary">Keep Reading</a>
 
 ---
 
