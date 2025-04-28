@@ -38,9 +38,9 @@ Brands must be symbolic, sewing harmony amongst diversity.
 
 #### Musings:
 
-Here's more I've written pondering the topic of creating compassionate work for other humans:
+If you're interested in more that I've written pondering the topic of creating compassionate work for other humans, here you go:
 
-<a href="/writing" class="btn_secondary">Read More</a>
+<a href="/writing" class="btn_secondary">Keep Reading</a>
 
 ---
 
