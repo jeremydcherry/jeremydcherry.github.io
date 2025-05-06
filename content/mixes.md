@@ -21,7 +21,7 @@ permalink: /mixes
 
 - [_There is a Light That Never Goes Out_](https://open.spotify.com/playlist/4dY0ZRGe02IOzclcD6AT9b?si=4a387a1c1c374ddc), Uplifting
 
-- [_A Light Through the Pines Mix_](https://open.spotify.com/playlist/4iE05nEaBbKTtKSCvQr69d?si=e444007ec647490d), Ambient
+- [_A Light Through the Pines_](https://open.spotify.com/playlist/4iE05nEaBbKTtKSCvQr69d?si=e444007ec647490d), Ambient
 
 - [_Painted Skyline_](https://open.spotify.com/playlist/2YcuEzpwpEDIXUsEnUN8fp?si=e997134bdf304477), Americana
 
