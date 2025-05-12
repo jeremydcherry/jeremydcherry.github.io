@@ -9,6 +9,8 @@ permalink: /brandsarehuman
 
 <span class="manifesto">A brand is only as good as the <em>human</em> endeavor it represents. Meaningful brands transmit value, dignify participants, portray products and services authentically, reduce waste, clarify confusion, and conveys our highest ideals.</span>
 
+##### _Or if you prefer, [download a PDF](/downloads/brandsarehuman.pdf) of this manifesto._
+
 ---
 
 #### Tenets:
