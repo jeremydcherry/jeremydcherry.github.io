@@ -27,7 +27,7 @@ A brand is only as good as the human endeavor it represents. These words capture
 
 #### Musings:
 
-Here's a collections of essays I've written pondering the topic of creating compassionate work for other humans:
+Here's a collection of essays I've written pondering the topic of creating compassionate work for other humans:
 
 - [Watching Robots Paint](https://www.journeygroup.com/essays/watching-robots-paint)
 
