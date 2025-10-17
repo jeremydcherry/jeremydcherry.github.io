@@ -47,13 +47,11 @@ Over the years, I've had a lot of design-loving folks ask me for my favorite res
 
 ---
   
-#### [Thinkers](#thinkers):
+#### [Ethics](#ethics):
 
 - [Center for Humane Tech](https://www.humanetech.com/): Supporting ethical tech innovation
 
 - [Humane by Design](https://humanebydesign.com/): Resources that help you design for humans
-
-- [Jigsaw](https://jigsaw.google.com/): Google's iniative for a safer web
 
 ---
   
